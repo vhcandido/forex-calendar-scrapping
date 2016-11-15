@@ -1,6 +1,5 @@
 import scrapy
 
-
 class FXCalendarSpider(scrapy.Spider):
     name = "events"
     start_urls = [
@@ -13,7 +12,6 @@ class FXCalendarSpider(scrapy.Spider):
 
         date = None
         time = None
-        impact = None
         for event in response.css(css_str):
 
             if not event.css('td span.date::text').extract_first() is None:
@@ -26,19 +24,16 @@ class FXCalendarSpider(scrapy.Spider):
             if not event.css('td.calendar__cell.calendar__time.time::text').extract_first() is None:
                 time = event.css('td.calendar__cell.calendar__time.time::text').extract_first()
 
-            impact = None
-            if not event.css('td.calendar__cell.calendar__impact.impact' + \
-                    ' div.calendar__impact-icon' + \
-                    ' span::attr("class")').extract_first() is None:
-                    impact = event.css('td.calendar__cell.calendar__impact.impact' + \
-                        ' div.calendar__impact-icon' + \
-                        ' span::attr("class")').extract_first()
-
             yield {
                     'date': date,
                     'time': time,
+
                     'currency': event.css('td.calendar__cell.calendar__currency.currency::text').extract_first(),
-                    'calendar_impact': impact,
+
+                    'impact': event.css('td.calendar__cell.calendar__impact.impact' + \
+                        ' div.calendar__impact-icon' + \
+                        ' span::attr("class")').extract_first(),
+
                     'event': event.css('td.calendar__cell.calendar__event.event' + \
                             ' div span.calendar__event-title::text').extract_first(),
                     #'detail':,
