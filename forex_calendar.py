@@ -45,7 +45,7 @@ class FXCalendarSpider(scrapy.Spider):
                     #'author': quote.xpath('span/small/text()').extract_first(),
             }
 
-        #next_page = response.css('li.next a::attr("href")').extract_first()
+        #next_page = response.css('li.more a.flexMore::attr("href")').extract_first()
         #if next_page is not None:
         #    next_page = response.urljoin(next_page)
         #    yield scrapy.Request(next_page, callback=self.parse)
