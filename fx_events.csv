@@ -1,0 +1,739 @@
+date,currency,impact,event,time
+Thu Dec 1,AUD,low,Commodity Prices y/y,12:30am
+Thu Dec 1,GBP,high,Bank Stress Test Results,Tentative
+Thu Dec 1,CHF,low,Manufacturing PMI,2:30am
+Thu Dec 1,CHF,low,Retail Sales y/y,3:15am
+Tue Nov 1,AUD,low,Commodity Prices y/y,12:30am
+Thu Dec 1,EUR,medium,Spanish Manufacturing PMI,3:15am
+Thu Dec 1,EUR,low,Italian Manufacturing PMI,3:45am
+Thu Dec 1,EUR,low,French Final Manufacturing PMI,3:50am
+Thu Dec 1,EUR,low,Final Manufacturing PMI,4:00am
+Tue Nov 1,JPY,high,BOJ Press Conference,1:30am
+Tue Nov 1,EUR,holiday,French Bank Holiday,All Day
+Tue Nov 1,EUR,holiday,Italian Bank Holiday,All Day
+Tue Nov 1,CHF,low,Retail Sales y/y,3:15am
+Thu Dec 1,EUR,low,Italian Monthly Unemployment Rate,4:00am
+Thu Dec 1,GBP,high,Manufacturing PMI,4:30am
+Thu Dec 1,EUR,low,Unemployment Rate,5:00am
+Thu Dec 1,USD,low,Challenger Job Cuts y/y,7:30am
+Tue Nov 1,CHF,low,Manufacturing PMI,3:30am
+Tue Nov 1,GBP,high,Manufacturing PMI,4:30am
+Tue Nov 1,CAD,high,GDP m/m,7:30am
+Tue Nov 1,CAD,low,RBC Manufacturing PMI,8:30am
+Tue Nov 1,USD,low,Final Manufacturing PMI,8:45am
+Thu Dec 1,USD,high,Unemployment Claims,8:30am
+Thu Dec 1,CAD,low,RBC Manufacturing PMI,9:30am
+Thu Dec 1,USD,low,Final Manufacturing PMI,9:45am
+Thu Dec 1,USD,high,ISM Manufacturing PMI,10:00am
+Tue Nov 1,USD,high,ISM Manufacturing PMI,9:00am
+Tue Nov 1,USD,low,Construction Spending m/m,9:00am
+Tue Nov 1,USD,low,IBD/TIPP Economic Optimism,9:00am
+Tue Nov 1,USD,low,ISM Manufacturing Prices,9:00am
+Thu Dec 1,USD,low,Construction Spending m/m,10:00am
+Thu Dec 1,USD,low,ISM Manufacturing Prices,10:00am
+Thu Dec 1,USD,low,Natural Gas Storage,10:30am
+Thu Dec 1,USD,low,Total Vehicle Sales,All Day
+Thu Dec 1,JPY,low,Monetary Base y/y,6:50pm
+Tue Nov 1,NZD,high,GDT Price Index,9:35am
+Tue Nov 1,USD,low,Total Vehicle Sales,All Day
+Tue Nov 1,CAD,high,BOC Gov Poloz Speaks,11:00am
+Tue Nov 1,NZD,high,Employment Change q/q,4:45pm
+Thu Dec 1,AUD,high,Retail Sales m/m,7:30pm
+Fri Dec 2,CHF,low,GDP q/q,1:45am
+Fri Dec 2,EUR,medium,Spanish Unemployment Change,3:00am
+Tue Nov 1,NZD,high,Unemployment Rate,4:45pm
+Tue Nov 1,NZD,low,Labor Cost Index q/q,4:45pm
+Tue Nov 1,JPY,low,Monetary Base y/y,6:50pm
+Tue Nov 1,GBP,low,BRC Shop Price Index y/y,7:01pm
+Tue Nov 1,AUD,high,Building Approvals m/m,7:30pm
+Fri Dec 2,GBP,high,Construction PMI,4:30am
+Fri Dec 2,EUR,low,PPI m/m,5:00am
+Fri Dec 2,CAD,high,Employment Change,8:30am
+Fri Dec 2,CAD,high,Unemployment Rate,8:30am
+Fri Dec 2,CAD,medium,Labor Productivity q/q,8:30am
+Tue Nov 1,NZD,high,Inflation Expectations q/q,9:00pm
+Wed Nov 2,JPY,low,Consumer Confidence,12:00am
+Wed Nov 2,GBP,low,Nationwide HPI m/m,2:00am
+Wed Nov 2,EUR,medium,Spanish Manufacturing PMI,3:15am
+Fri Dec 2,USD,high,Average Hourly Earnings m/m,8:30am
+Fri Dec 2,USD,high,Non-Farm Employment Change,8:30am
+Fri Dec 2,USD,high,Unemployment Rate,8:30am
+Sat Dec 3,,,,
+Sun Dec 4,EUR,high,Italian Constitutional Review Vote,All Day
+Wed Nov 2,EUR,low,Italian Manufacturing PMI,3:45am
+Wed Nov 2,EUR,low,French Final Manufacturing PMI,3:50am
+Wed Nov 2,EUR,medium,German Unemployment Change,3:55am
+Wed Nov 2,EUR,low,German Final Manufacturing PMI,3:55am
+Wed Nov 2,EUR,low,Final Manufacturing PMI,4:00am
+Sun Dec 4,AUD,low,AIG Services Index,5:30pm
+Sun Dec 4,AUD,low,MI Inflation Gauge m/m,7:00pm
+Sun Dec 4,NZD,low,ANZ Commodity Prices m/m,7:00pm
+Sun Dec 4,AUD,medium,Company Operating Profits q/q,7:30pm
+Wed Nov 2,GBP,high,Construction PMI,4:30am
+Wed Nov 2,EUR,low,German 10-y Bond Auction,5:32am
+Wed Nov 2,USD,high,ADP Non-Farm Employment Change,7:15am
+Wed Nov 2,USD,high,Crude Oil Inventories,9:30am
+Sun Dec 4,AUD,low,ANZ Job Advertisements m/m,7:30pm
+Sun Dec 4,CNY,medium,Caixin Services PMI,8:45pm
+Mon Dec 5,JPY,low,Consumer Confidence,12:00am
+Mon Dec 5,EUR,low,Spanish Services PMI,3:15am
+Wed Nov 2,CAD,medium,Gov Council Member Wilkins Speaks,12:30pm
+Wed Nov 2,USD,high,FOMC Statement,1:00pm
+Wed Nov 2,USD,high,Federal Funds Rate,1:00pm
+Wed Nov 2,AUD,low,AIG Services Index,5:30pm
+Mon Dec 5,EUR,low,Italian Services PMI,3:45am
+Mon Dec 5,EUR,low,French Final Services PMI,3:50am
+Mon Dec 5,EUR,low,German Final Services PMI,3:55am
+Mon Dec 5,EUR,low,Final Services PMI,4:00am
+Wed Nov 2,JPY,holiday,Bank Holiday,All Day
+Wed Nov 2,NZD,low,ANZ Commodity Prices m/m,7:00pm
+Wed Nov 2,AUD,high,Trade Balance,7:30pm
+Wed Nov 2,CNY,medium,Caixin Services PMI,8:45pm
+Mon Dec 5,EUR,low,Sentix Investor Confidence,4:30am
+Mon Dec 5,GBP,high,Services PMI,4:30am
+Mon Dec 5,EUR,low,Retail Sales m/m,5:00am
+Mon Dec 5,USD,low,Final Services PMI,9:45am
+Thu Nov 3,CHF,low,SECO Consumer Climate,1:45am
+Thu Nov 3,EUR,medium,Spanish Unemployment Change,3:00am
+Thu Nov 3,EUR,low,ECB Economic Bulletin,4:00am
+Thu Nov 3,EUR,low,Italian Monthly Unemployment Rate,4:00am
+Mon Dec 5,USD,high,ISM Non-Manufacturing PMI,10:00am
+Mon Dec 5,USD,low,Labor Market Conditions Index m/m,10:00am
+Mon Dec 5,JPY,low,Average Cash Earnings y/y,7:00pm
+Mon Dec 5,GBP,low,BRC Retail Sales Monitor y/y,7:01pm
+Mon Dec 5,AUD,medium,Current Account,7:30pm
+Thu Nov 3,GBP,high,Services PMI,4:30am
+Thu Nov 3,EUR,low,Spanish 10-y Bond Auction,4:50am
+Thu Nov 3,EUR,low,French 10-y Bond Auction,4:57am
+Thu Nov 3,EUR,low,Unemployment Rate,5:00am
+Mon Dec 5,AUD,high,Cash Rate,10:30pm
+Mon Dec 5,AUD,high,RBA Rate Statement,10:30pm
+Tue Dec 6,EUR,medium,German Factory Orders m/m,2:00am
+Tue Dec 6,EUR,low,French Gov Budget Balance,2:45am
+Thu Nov 3,GBP,high,EU Membership Court Ruling,5:00am
+Thu Nov 3,USD,low,Challenger Job Cuts y/y,6:30am
+Thu Nov 3,GBP,high,BOE Inflation Report,7:00am
+Thu Nov 3,GBP,high,MPC Official Bank Rate Votes,7:00am
+Thu Nov 3,GBP,high,Monetary Policy Summary,7:00am
+Tue Dec 6,EUR,low,French Trade Balance,2:45am
+Tue Dec 6,CHF,low,CPI m/m,3:15am
+Tue Dec 6,EUR,low,Retail PMI,4:10am
+Tue Dec 6,EUR,low,Revised GDP q/q,5:00am
+Tue Dec 6,CAD,low,Housing Starts,8:15am
+Thu Nov 3,GBP,high,Official Bank Rate,7:00am
+Thu Nov 3,GBP,medium,Asset Purchase Facility,7:00am
+Thu Nov 3,GBP,medium,MPC Asset Purchase Facility Votes,7:00am
+Thu Nov 3,GBP,high,BOE Gov Carney Speaks,7:30am
+Tue Dec 6,CAD,high,Trade Balance,8:30am
+Tue Dec 6,USD,medium,Revised Nonfarm Productivity q/q,8:30am
+Tue Dec 6,USD,medium,Trade Balance,8:30am
+Tue Dec 6,USD,low,Revised Unit Labor Costs q/q,8:30am
+Tue Dec 6,NZD,high,GDT Price Index,Tentative
+Thu Nov 3,USD,high,Unemployment Claims,7:30am
+Thu Nov 3,USD,medium,Prelim Nonfarm Productivity q/q,7:30am
+Thu Nov 3,USD,medium,Prelim Unit Labor Costs q/q,7:30am
+Thu Nov 3,USD,low,Final Services PMI,8:45am
+Thu Nov 3,USD,high,ISM Non-Manufacturing PMI,9:00am
+Tue Dec 6,CAD,medium,Ivey PMI,10:00am
+Tue Dec 6,USD,medium,Factory Orders m/m,10:00am
+Tue Dec 6,USD,low,IBD/TIPP Economic Optimism,10:00am
+Tue Dec 6,CAD,low,BOC Financial System Review,11:00am
+Tue Dec 6,NZD,low,Manufacturing Sales q/q,4:45pm
+Thu Nov 3,USD,medium,Factory Orders m/m,9:00am
+Thu Nov 3,USD,low,Natural Gas Storage,9:30am
+Thu Nov 3,GBP,medium,MPC Member Cunliffe Speaks,3:55pm
+Thu Nov 3,AUD,high,RBA Monetary Policy Statement,7:30pm
+Thu Nov 3,AUD,high,Retail Sales m/m,7:30pm
+Tue Dec 6,AUD,low,AIG Construction Index,5:30pm
+Tue Dec 6,GBP,low,BRC Shop Price Index y/y,7:01pm
+Tue Dec 6,AUD,high,GDP q/q,7:30pm
+Wed Dec 7,JPY,low,Leading Indicators,12:00am
+Thu Nov 3,CAD,high,BOC Gov Poloz Speaks,7:35pm
+Fri Nov 4,EUR,low,Spanish Services PMI,3:15am
+Fri Nov 4,EUR,low,Italian Services PMI,3:45am
+Fri Nov 4,EUR,low,French Final Services PMI,3:50am
+Wed Dec 7,EUR,low,French Final Non-Farm Payrolls q/q,1:30am
+Wed Dec 7,EUR,low,German Industrial Production m/m,2:00am
+Wed Dec 7,CHF,low,Foreign Currency Reserves,3:00am
+Wed Dec 7,GBP,medium,Halifax HPI m/m,3:30am
+Wed Dec 7,EUR,low,Italian Quarterly Unemployment Rate,4:00am
+Fri Nov 4,EUR,low,German Final Services PMI,3:55am
+Fri Nov 4,EUR,low,Final Services PMI,4:00am
+Fri Nov 4,EUR,low,PPI m/m,5:00am
+Fri Nov 4,CAD,high,Employment Change,7:30am
+Wed Dec 7,GBP,high,Manufacturing Production m/m,4:30am
+Wed Dec 7,GBP,low,FPC Meeting Minutes,4:30am
+Wed Dec 7,GBP,low,Industrial Production m/m,4:30am
+Wed Dec 7,CAD,high,BOC Rate Statement,10:00am
+Fri Nov 4,CAD,high,Unemployment Rate,7:30am
+Fri Nov 4,CAD,medium,Trade Balance,7:30am
+Fri Nov 4,USD,high,Average Hourly Earnings m/m,7:30am
+Fri Nov 4,USD,high,Non-Farm Employment Change,7:30am
+Fri Nov 4,USD,high,Unemployment Rate,7:30am
+Wed Dec 7,CAD,high,Overnight Rate,10:00am
+Wed Dec 7,GBP,low,NIESR GDP Estimate,10:00am
+Wed Dec 7,USD,high,Crude Oil Inventories,10:30am
+Wed Dec 7,USD,low,10-y Bond Auction,1:01pm
+Wed Dec 7,USD,low,Consumer Credit m/m,3:00pm
+Fri Nov 4,USD,medium,Trade Balance,7:30am
+Fri Nov 4,CAD,medium,Ivey PMI,9:00am
+Fri Nov 4,GBP,medium,MPC Member Forbes Speaks,9:45am
+Fri Nov 4,USD,medium,FOMC Member Fischer Speaks,3:00pm
+Wed Dec 7,JPY,medium,Current Account,6:50pm
+Wed Dec 7,JPY,medium,Final GDP q/q,6:50pm
+Wed Dec 7,JPY,low,Bank Lending y/y,6:50pm
+Wed Dec 7,JPY,low,Final GDP Price Index y/y,6:50pm
+Wed Dec 7,AUD,medium,Trade Balance,7:30pm
+Sat Nov 5,,,,
+Sun Nov 6,CAD,holiday,Daylight Saving Time Shift,2:00am
+Sun Nov 6,USD,holiday,Daylight Saving Time Shift,2:00am
+Sun Nov 6,AUD,low,AIG Construction Index,5:30pm
+Wed Dec 7,CNY,high,Trade Balance,Tentative
+Wed Dec 7,CNY,low,USD-Denominated Trade Balance,Tentative
+Wed Dec 7,JPY,low,30-y Bond Auction,10:45pm
+Thu Dec 8,JPY,low,Economy Watchers Sentiment,12:00am
+Sun Nov 6,JPY,low,Monetary Policy Meeting Minutes,6:50pm
+Sun Nov 6,JPY,low,Average Cash Earnings y/y,7:00pm
+Sun Nov 6,AUD,low,ANZ Job Advertisements m/m,7:30pm
+Mon Nov 7,EUR,medium,German Factory Orders m/m,2:00am
+Thu Dec 8,EUR,holiday,Italian Bank Holiday,All Day
+Thu Dec 8,EUR,low,French Industrial Production m/m,2:45am
+Thu Dec 8,GBP,medium,Goods Trade Balance,4:30am
+Thu Dec 8,EUR,high,Minimum Bid Rate,7:45am
+Mon Nov 7,CHF,low,Foreign Currency Reserves,3:00am
+Mon Nov 7,CHF,low,CPI m/m,3:15am
+Mon Nov 7,GBP,medium,Halifax HPI m/m,3:30am
+Mon Nov 7,EUR,low,Retail PMI,4:10am
+Thu Dec 8,CAD,medium,Building Permits m/m,8:30am
+Thu Dec 8,CAD,medium,NHPI m/m,8:30am
+Thu Dec 8,CAD,low,Capacity Utilization Rate,8:30am
+Thu Dec 8,EUR,high,ECB Press Conference,8:30am
+Mon Nov 7,EUR,low,Sentix Investor Confidence,4:30am
+Mon Nov 7,EUR,low,Retail Sales m/m,5:00am
+Mon Nov 7,EUR,medium,Eurogroup Meetings,All Day
+Mon Nov 7,USD,low,Labor Market Conditions Index m/m,10:00am
+Thu Dec 8,USD,high,Unemployment Claims,8:30am
+Thu Dec 8,USD,medium,JOLTS Job Openings,10:00am
+Thu Dec 8,USD,low,Natural Gas Storage,10:30am
+Thu Dec 8,USD,low,30-y Bond Auction,1:01pm
+Mon Nov 7,USD,low,Loan Officer Survey,2:00pm
+Mon Nov 7,USD,low,Consumer Credit m/m,3:00pm
+Mon Nov 7,GBP,low,BRC Retail Sales Monitor y/y,7:01pm
+Mon Nov 7,AUD,low,NAB Business Confidence,7:30pm
+Thu Dec 8,JPY,medium,BSI Manufacturing Index,6:50pm
+Thu Dec 8,JPY,low,M2 Money Stock y/y,6:50pm
+Thu Dec 8,GBP,low,RICS House Price Balance,7:01pm
+Thu Dec 8,AUD,low,Home Loans m/m,7:30pm
+Thu Dec 8,CNY,medium,CPI y/y,8:30pm
+Mon Nov 7,CNY,high,Trade Balance,9:32pm
+Mon Nov 7,CNY,low,USD-Denominated Trade Balance,9:40pm
+Mon Nov 7,JPY,low,10-y Bond Auction,10:45pm
+Tue Nov 8,JPY,low,Leading Indicators,12:02am
+Thu Dec 8,CNY,medium,PPI y/y,8:30pm
+Fri Dec 9,JPY,low,Prelim Machine Tool Orders y/y,Tentative
+Fri Dec 9,CHF,low,Unemployment Rate,1:45am
+Fri Dec 9,EUR,low,German Trade Balance,2:00am
+Tue Nov 8,CHF,low,Unemployment Rate,1:45am
+Tue Nov 8,EUR,low,German Industrial Production m/m,2:00am
+Tue Nov 8,EUR,low,German Trade Balance,2:00am
+Tue Nov 8,EUR,low,French Gov Budget Balance,2:45am
+Tue Nov 8,EUR,low,French Trade Balance,2:45am
+Fri Dec 9,EUR,low,German WPI m/m,2:00am
+Fri Dec 9,GBP,low,Construction Output m/m,4:30am
+Fri Dec 9,GBP,low,Consumer Inflation Expectations,4:30am
+Fri Dec 9,EUR,low,French 10-y Bond Auction,Tentative
+Tue Nov 8,GBP,high,Manufacturing Production m/m,4:30am
+Tue Nov 8,GBP,low,Industrial Production m/m,4:30am
+Tue Nov 8,EUR,medium,ECOFIN Meetings,All Day
+Tue Nov 8,USD,low,NFIB Small Business Index,6:00am
+Tue Nov 8,CAD,low,Housing Starts,8:13am
+Fri Dec 9,GBP,low,10-y Bond Auction,Tentative
+Fri Dec 9,USD,low,NFIB Small Business Index,6:00am
+Fri Dec 9,USD,high,Prelim UoM Consumer Sentiment,10:00am
+Fri Dec 9,USD,low,Final Wholesale Inventories m/m,10:00am
+Tue Nov 8,CAD,medium,Building Permits m/m,8:30am
+Tue Nov 8,GBP,low,NIESR GDP Estimate,10:00am
+Tue Nov 8,USD,medium,JOLTS Job Openings,10:00am
+Tue Nov 8,USD,high,Presidential Election,All Day
+Fri Dec 9,USD,low,Prelim UoM Inflation Expectations,10:00am
+Sat Dec 10,,,,
+Sun Dec 11,JPY,low,Core Machinery Orders m/m,6:50pm
+Sun Dec 11,JPY,low,PPI y/y,6:50pm
+Tue Nov 8,USD,low,Congressional Elections,All Day
+Tue Nov 8,CAD,medium,Gov Council Member Schembri Speaks,11:20am
+Tue Nov 8,GBP,medium,MPC Member Haldane Speaks,12:00pm
+Tue Nov 8,AUD,low,Westpac Consumer Sentiment,6:30pm
+Tue Nov 8,JPY,medium,Current Account,6:50pm
+Sun Dec 11,JPY,low,Tertiary Industry Activity m/m,11:30pm
+Mon Dec 12,CNY,high,Industrial Production y/y,12:30am
+Mon Dec 12,CNY,medium,Fixed Asset Investment ytd/y,12:30am
+Mon Dec 12,CNY,low,Retail Sales y/y,12:30am
+Tue Nov 8,JPY,low,Bank Lending y/y,6:50pm
+Tue Nov 8,CNY,medium,CPI y/y,8:30pm
+Tue Nov 8,CNY,medium,PPI y/y,8:30pm
+Wed Nov 9,JPY,low,Economy Watchers Sentiment,12:00am
+Wed Nov 9,GBP,medium,Goods Trade Balance,4:30am
+Mon Dec 12,CNY,low,M2 Money Supply y/y,Tentative
+Mon Dec 12,CNY,low,New Loans,Tentative
+Mon Dec 12,EUR,low,German 10-y Bond Auction,Tentative
+Mon Dec 12,EUR,low,Spanish 10-y Bond Auction,Tentative
+Mon Dec 12,USD,low,Federal Budget Balance,2:00pm
+Wed Nov 9,EUR,medium,EU Economic Forecasts,5:00am
+Wed Nov 9,USD,low,Final Wholesale Inventories m/m,10:00am
+Wed Nov 9,USD,high,Crude Oil Inventories,10:30am
+Wed Nov 9,GBP,medium,MPC Member Haldane Speaks,1:00pm
+Mon Dec 12,NZD,low,FPI m/m,4:45pm
+Mon Dec 12,AUD,medium,HPI q/q,7:30pm
+Mon Dec 12,AUD,medium,NAB Business Confidence,7:30pm
+Tue Dec 13,EUR,low,German Final CPI m/m,2:00am
+Tue Dec 13,EUR,low,Italian Industrial Production m/m,4:00am
+Wed Nov 9,USD,low,10-y Bond Auction,1:04pm
+Wed Nov 9,NZD,high,Official Cash Rate,3:00pm
+Wed Nov 9,NZD,high,RBNZ Rate Statement,3:00pm
+Wed Nov 9,NZD,medium,RBNZ Monetary Policy Statement,3:00pm
+Tue Dec 13,GBP,high,CPI y/y,4:30am
+Tue Dec 13,GBP,medium,PPI Input m/m,4:30am
+Tue Dec 13,GBP,medium,RPI y/y,4:30am
+Tue Dec 13,GBP,low,Core CPI y/y,4:30am
+Wed Nov 9,NZD,high,RBNZ Press Conference,4:00pm
+Wed Nov 9,JPY,low,BOJ Summary of Opinions,6:50pm
+Wed Nov 9,JPY,low,Core Machinery Orders m/m,6:50pm
+Wed Nov 9,JPY,low,M2 Money Stock y/y,6:50pm
+Tue Dec 13,GBP,low,HPI y/y,4:30am
+Tue Dec 13,GBP,low,PPI Output m/m,4:30am
+Tue Dec 13,EUR,medium,German ZEW Economic Sentiment,5:00am
+Tue Dec 13,EUR,low,Employment Change q/q,5:00am
+Tue Dec 13,EUR,low,ZEW Economic Sentiment,5:00am
+Wed Nov 9,AUD,low,MI Inflation Expectations,7:00pm
+Wed Nov 9,GBP,low,RICS House Price Balance,7:01pm
+Wed Nov 9,NZD,high,RBNZ Gov Wheeler Speaks,7:10pm
+Wed Nov 9,AUD,low,Home Loans m/m,7:30pm
+Tue Dec 13,USD,medium,Import Prices m/m,8:30am
+Tue Dec 13,NZD,medium,Current Account,4:45pm
+Tue Dec 13,AUD,low,Westpac Consumer Sentiment,6:30pm
+Tue Dec 13,JPY,medium,Tankan Manufacturing Index,6:50pm
+Tue Dec 13,JPY,medium,Tankan Non-Manufacturing Index,6:50pm
+Wed Nov 9,JPY,low,30-y Bond Auction,10:45pm
+Thu Nov 10,JPY,low,Prelim Machine Tool Orders y/y,1:00am
+Thu Nov 10,EUR,low,French Industrial Production m/m,2:45am
+Thu Nov 10,EUR,low,French Prelim Non-Farm Payrolls q/q,2:45am
+Tue Dec 13,AUD,low,New Motor Vehicle Sales m/m,7:30pm
+Tue Dec 13,JPY,low,Revised Industrial Production m/m,11:30pm
+Wed Dec 14,EUR,low,French Final CPI m/m,2:45am
+Wed Dec 14,CHF,medium,PPI m/m,3:15am
+Thu Nov 10,EUR,low,Italian Industrial Production m/m,4:00am
+Thu Nov 10,CAD,medium,NHPI m/m,8:30am
+Thu Nov 10,USD,high,Unemployment Claims,8:30am
+Thu Nov 10,USD,medium,FOMC Member Bullard Speaks,9:15am
+Thu Nov 10,USD,medium,Mortgage Delinquencies,10:00am
+Wed Dec 14,EUR,low,Italian Trade Balance,4:00am
+Wed Dec 14,GBP,high,Average Earnings Index 3m/y,4:30am
+Wed Dec 14,GBP,high,Claimant Count Change,4:30am
+Wed Dec 14,GBP,medium,Unemployment Rate,4:30am
+Wed Dec 14,CHF,low,ZEW Economic Expectations,5:00am
+Thu Nov 10,USD,low,Natural Gas Storage,10:30am
+Thu Nov 10,USD,low,30-y Bond Auction,1:01pm
+Thu Nov 10,USD,low,Federal Budget Balance,2:00pm
+Thu Nov 10,NZD,low,Business NZ Manufacturing Index,4:30pm
+Wed Dec 14,EUR,low,Industrial Production m/m,5:00am
+Wed Dec 14,USD,high,Core Retail Sales m/m,8:30am
+Wed Dec 14,USD,high,PPI m/m,8:30am
+Wed Dec 14,USD,high,Retail Sales m/m,8:30am
+Thu Nov 10,NZD,low,FPI m/m,4:45pm
+Thu Nov 10,JPY,low,PPI y/y,6:50pm
+Thu Nov 10,AUD,medium,RBA Assist Gov Debelle Speaks,9:15pm
+Thu Nov 10,JPY,low,Tertiary Industry Activity m/m,11:30pm
+Wed Dec 14,USD,medium,Core PPI m/m,8:30am
+Wed Dec 14,USD,medium,Capacity Utilization Rate,9:15am
+Wed Dec 14,USD,medium,Industrial Production m/m,9:15am
+Wed Dec 14,GBP,low,CB Leading Index m/m,9:30am
+Fri Nov 11,EUR,holiday,French Bank Holiday,All Day
+Fri Nov 11,EUR,low,German Final CPI m/m,2:00am
+Fri Nov 11,EUR,low,German WPI m/m,2:00am
+Fri Nov 11,CNY,low,M2 Money Supply y/y,3:31am
+Fri Nov 11,CNY,low,New Loans,3:31am
+Wed Dec 14,USD,low,Business Inventories m/m,10:00am
+Wed Dec 14,USD,high,Crude Oil Inventories,10:30am
+Wed Dec 14,USD,high,FOMC Economic Projections,2:00pm
+Wed Dec 14,USD,high,FOMC Statement,2:00pm
+Wed Dec 14,USD,high,Federal Funds Rate,2:00pm
+Fri Nov 11,GBP,low,Construction Output m/m,4:30am
+Fri Nov 11,CAD,holiday,Bank Holiday,All Day
+Fri Nov 11,USD,holiday,Bank Holiday,All Day
+Fri Nov 11,USD,medium,FOMC Member Fischer Speaks,8:30am
+Wed Dec 14,USD,high,FOMC Press Conference,2:30pm
+Wed Dec 14,NZD,low,Business NZ Manufacturing Index,4:30pm
+Wed Dec 14,NZD,high,GDP q/q,4:45pm
+Wed Dec 14,AUD,low,MI Inflation Expectations,7:00pm
+Wed Dec 14,AUD,high,Employment Change,7:30pm
+Fri Nov 11,USD,high,Prelim UoM Consumer Sentiment,10:00am
+Fri Nov 11,USD,low,Prelim UoM Inflation Expectations,10:00am
+Fri Nov 11,CAD,high,BOC Gov Poloz Speaks,10:50am
+Sat Nov 12,,,,
+Wed Dec 14,AUD,high,Unemployment Rate,7:30pm
+Wed Dec 14,AUD,low,RBA Bulletin,7:30pm
+Thu Dec 15,CHF,low,SECO Economic Forecasts,1:45am
+Thu Dec 15,CHF,high,Libor Rate,3:30am
+Sun Nov 13,JPY,high,Prelim GDP q/q,6:50pm
+Sun Nov 13,JPY,low,Prelim GDP Price Index y/y,6:50pm
+Sun Nov 13,GBP,low,Rightmove HPI m/m,7:01pm
+Sun Nov 13,JPY,high,BOJ Gov Kuroda Speaks,8:00pm
+Thu Dec 15,CHF,high,SNB Monetary Policy Assessment,3:30am
+Thu Dec 15,CHF,high,SNB Press Conference,4:00am
+Thu Dec 15,GBP,high,Retail Sales m/m,4:30am
+Thu Dec 15,GBP,low,CBI Industrial Order Expectations,6:00am
+Sun Nov 13,CNY,high,Industrial Production y/y,9:00pm
+Sun Nov 13,CNY,medium,Fixed Asset Investment ytd/y,9:00pm
+Sun Nov 13,CNY,low,Retail Sales y/y,9:00pm
+Sun Nov 13,JPY,low,Revised Industrial Production m/m,11:30pm
+Thu Dec 15,EUR,medium,Long Term Refinancing Option,7:00am
+Thu Dec 15,GBP,high,MPC Official Bank Rate Votes,7:00am
+Thu Dec 15,GBP,high,Monetary Policy Summary,7:00am
+Thu Dec 15,GBP,high,Official Bank Rate,7:00am
+Thu Dec 15,GBP,medium,Asset Purchase Facility,7:00am
+Mon Nov 14,CHF,medium,PPI m/m,3:15am
+Mon Nov 14,EUR,low,Industrial Production m/m,5:00am
+Mon Nov 14,EUR,high,ECB President Draghi Speaks,10:00am
+Mon Nov 14,AUD,high,Monetary Policy Meeting Minutes,7:30pm
+Thu Dec 15,GBP,medium,MPC Asset Purchase Facility Votes,7:00am
+Thu Dec 15,CAD,high,Manufacturing Sales m/m,8:30am
+Thu Dec 15,USD,high,CPI m/m,8:30am
+Thu Dec 15,USD,high,Core CPI m/m,8:30am
+Thu Dec 15,USD,high,Philly Fed Manufacturing Index,8:30am
+Tue Nov 15,EUR,high,German Prelim GDP q/q,2:00am
+Tue Nov 15,EUR,low,French Final CPI m/m,2:45am
+Tue Nov 15,AUD,high,RBA Gov Lowe Speaks,3:15am
+Tue Nov 15,EUR,low,Italian Prelim GDP q/q,4:00am
+Thu Dec 15,USD,high,Unemployment Claims,8:30am
+Thu Dec 15,USD,medium,Current Account,8:30am
+Thu Dec 15,USD,medium,Empire State Manufacturing Index,8:30am
+Thu Dec 15,USD,low,NAHB Housing Market Index,10:00am
+Thu Dec 15,USD,low,Natural Gas Storage,10:30am
+Tue Nov 15,GBP,high,CPI y/y,4:30am
+Tue Nov 15,GBP,medium,PPI Input m/m,4:30am
+Tue Nov 15,GBP,medium,RPI y/y,4:30am
+Tue Nov 15,GBP,low,Core CPI y/y,4:30am
+Tue Nov 15,GBP,low,HPI y/y,4:30am
+Thu Dec 15,USD,low,TIC Long-Term Purchases,4:00pm
+Thu Dec 15,JPY,low,Flash Manufacturing PMI,7:30pm
+Thu Dec 15,CNY,low,Foreign Direct Investment ytd/y,Tentative
+Fri Dec 16,EUR,medium,Final CPI y/y,5:00am
+Tue Nov 15,GBP,low,PPI Output m/m,4:30am
+Tue Nov 15,EUR,medium,Flash GDP q/q,5:00am
+Tue Nov 15,EUR,medium,German ZEW Economic Sentiment,5:00am
+Tue Nov 15,EUR,low,Trade Balance,5:00am
+Tue Nov 15,EUR,low,ZEW Economic Sentiment,5:00am
+Fri Dec 16,EUR,low,Final Core CPI y/y,5:00am
+Fri Dec 16,EUR,low,Trade Balance,5:00am
+Fri Dec 16,GBP,low,BOE Quarterly Bulletin,7:00am
+Fri Dec 16,CAD,medium,Foreign Securities Purchases,8:30am
+Tue Nov 15,GBP,high,Inflation Report Hearings,5:00am
+Tue Nov 15,USD,high,Core Retail Sales m/m,8:30am
+Tue Nov 15,USD,high,Retail Sales m/m,8:30am
+Tue Nov 15,USD,medium,Empire State Manufacturing Index,8:30am
+Tue Nov 15,USD,medium,Import Prices m/m,8:30am
+Fri Dec 16,USD,high,Building Permits,8:30am
+Fri Dec 16,USD,medium,Housing Starts,8:30am
+Fri Dec 16,CHF,low,SNB Quarterly Bulletin,9:00am
+Sat Dec 17,,,,
+Sun Dec 18,NZD,low,Westpac Consumer Sentiment,4:00pm
+Tue Nov 15,USD,low,FOMC Member Tarullo Speaks,9:05am
+Tue Nov 15,NZD,high,GDT Price Index,9:35am
+Tue Nov 15,USD,low,Business Inventories m/m,10:00am
+Tue Nov 15,USD,medium,FOMC Member Fischer Speaks,1:30pm
+Sun Dec 18,JPY,low,Trade Balance,6:50pm
+Sun Dec 18,NZD,medium,ANZ Business Confidence,7:00pm
+Sun Dec 18,GBP,low,Rightmove HPI m/m,7:01pm
+Sun Dec 18,JPY,high,BOJ Policy Rate,Tentative
+Sun Dec 18,JPY,high,Monetary Policy Statement,Tentative
+Tue Nov 15,AUD,low,MI Leading Index m/m,1:30pm
+Tue Nov 15,AUD,medium,Wage Price Index q/q,7:30pm
+Tue Nov 15,AUD,low,New Motor Vehicle Sales m/m,7:30pm
+Wed Nov 16,USD,medium,FOMC Member Bullard Speaks,4:00am
+Mon Dec 19,JPY,high,BOJ Press Conference,Tentative
+Mon Dec 19,EUR,high,German Ifo Business Climate,4:00am
+Mon Dec 19,GBP,low,CBI Realized Sales,6:00am
+Mon Dec 19,EUR,low,German Buba Monthly Report,Tentative
+Wed Nov 16,GBP,high,Average Earnings Index 3m/y,4:30am
+Wed Nov 16,GBP,high,Claimant Count Change,4:30am
+Wed Nov 16,GBP,medium,Unemployment Rate,4:30am
+Wed Nov 16,CHF,low,ZEW Economic Expectations,5:00am
+Wed Nov 16,CAD,high,Manufacturing Sales m/m,8:30am
+Mon Dec 19,AUD,low,CB Leading Index m/m,8:30am
+Mon Dec 19,AUD,high,Monetary Policy Meeting Minutes,7:30pm
+Tue Dec 20,CHF,low,Trade Balance,2:00am
+Tue Dec 20,EUR,low,German PPI m/m,2:00am
+Wed Nov 16,USD,high,PPI m/m,8:30am
+Wed Nov 16,USD,medium,Core PPI m/m,8:30am
+Wed Nov 16,GBP,medium,MPC Member Cunliffe Speaks,9:00am
+Wed Nov 16,USD,medium,Capacity Utilization Rate,9:15am
+Tue Dec 20,EUR,low,Current Account,4:00am
+Tue Dec 20,EUR,low,Italian Monthly Unemployment Rate,4:00am
+Tue Dec 20,GBP,medium,Public Sector Net Borrowing,4:30am
+Tue Dec 20,EUR,low,Italian Retail Sales m/m,5:00am
+Wed Nov 16,USD,medium,Industrial Production m/m,9:15am
+Wed Nov 16,GBP,low,CB Leading Index m/m,9:30am
+Wed Nov 16,USD,low,NAHB Housing Market Index,10:00am
+Wed Nov 16,USD,high,Crude Oil Inventories,10:30am
+Wed Nov 16,CAD,medium,Gov Council Member Lane Speaks,12:05pm
+Tue Dec 20,EUR,low,Italian 10-y Bond Auction,Tentative
+Tue Dec 20,CAD,medium,Wholesale Sales m/m,8:30am
+Tue Dec 20,CNY,low,CB Leading Index m/m,9:00am
+Tue Dec 20,NZD,high,GDT Price Index,Tentative
+Wed Nov 16,USD,low,TIC Long-Term Purchases,4:00pm
+Wed Nov 16,NZD,high,PPI Input q/q,Tentative
+Wed Nov 16,NZD,high,Retail Sales q/q,Tentative
+Wed Nov 16,NZD,medium,Core Retail Sales q/q,Tentative
+Wed Nov 16,NZD,low,PPI Output q/q,Tentative
+Tue Dec 20,EUR,low,Consumer Confidence,10:00am
+Tue Dec 20,NZD,low,Visitor Arrivals m/m,4:45pm
+Tue Dec 20,AUD,low,MI Leading Index m/m,6:30pm
+Tue Dec 20,NZD,low,Credit Card Spending y/y,9:00pm
+Wed Nov 16,AUD,high,Employment Change,7:30pm
+Wed Nov 16,AUD,high,Unemployment Rate,7:30pm
+Wed Nov 16,CNY,low,Foreign Direct Investment ytd/y,17th-18th
+Thu Nov 17,EUR,low,Italian Trade Balance,4:00am
+Tue Dec 20,JPY,low,All Industries Activity m/m,11:30pm
+Wed Dec 21,GBP,low,Nationwide HPI m/m,Tentative
+Wed Dec 21,EUR,medium,French Flash Manufacturing PMI,3:00am
+Wed Dec 21,EUR,medium,French Flash Services PMI,3:00am
+Thu Nov 17,GBP,high,Retail Sales m/m,4:30am
+Thu Nov 17,EUR,medium,Final CPI y/y,5:00am
+Thu Nov 17,EUR,low,Final Core CPI y/y,5:00am
+Thu Nov 17,EUR,medium,ECB Monetary Policy Meeting Accounts,7:30am
+Thu Nov 17,CAD,medium,Foreign Securities Purchases,8:30am
+Wed Dec 21,EUR,medium,German Flash Manufacturing PMI,3:30am
+Wed Dec 21,EUR,medium,German Flash Services PMI,3:30am
+Wed Dec 21,EUR,medium,German Unemployment Change,3:55am
+Wed Dec 21,EUR,medium,Flash Manufacturing PMI,4:00am
+Thu Nov 17,USD,high,Building Permits,8:30am
+Thu Nov 17,USD,high,CPI m/m,8:30am
+Thu Nov 17,USD,high,Core CPI m/m,8:30am
+Thu Nov 17,USD,high,Philly Fed Manufacturing Index,8:30am
+Thu Nov 17,USD,high,Unemployment Claims,8:30am
+Wed Dec 21,EUR,medium,Flash Services PMI,4:00am
+Wed Dec 21,EUR,low,Belgian NBB Business Climate,9:00am
+Wed Dec 21,USD,low,Flash Manufacturing PMI,9:45am
+Wed Dec 21,USD,low,Flash Services PMI,9:45am
+Wed Dec 21,USD,medium,Existing Home Sales,10:00am
+Thu Nov 17,USD,medium,Housing Starts,8:30am
+Thu Nov 17,USD,medium,FOMC Member Dudley Speaks,8:50am
+Thu Nov 17,USD,high,Fed Chair Yellen Testifies,10:00am
+Thu Nov 17,CAD,low,BOC Review,10:30am
+Wed Dec 21,USD,high,Crude Oil Inventories,10:30am
+Wed Dec 21,NZD,medium,Trade Balance,4:45pm
+Thu Dec 22,EUR,low,ECB Economic Bulletin,4:00am
+Thu Dec 22,CAD,high,Core CPI m/m,8:30am
+Thu Nov 17,USD,low,Natural Gas Storage,10:30am
+Thu Nov 17,CHF,medium,Gov Board Member Maechler Speaks,12:00pm
+Thu Nov 17,USD,medium,FOMC Member Brainard Speaks,12:30pm
+Fri Nov 18,EUR,low,German PPI m/m,2:00am
+Thu Dec 22,CAD,high,Core Retail Sales m/m,8:30am
+Thu Dec 22,CAD,medium,CPI m/m,8:30am
+Thu Dec 22,CAD,medium,Retail Sales m/m,8:30am
+Thu Dec 22,USD,high,Final GDP q/q,8:30am
+Thu Dec 22,USD,high,Unemployment Claims,8:30am
+Fri Nov 18,EUR,high,ECB President Draghi Speaks,3:30am
+Fri Nov 18,EUR,low,Current Account,4:00am
+Fri Nov 18,GBP,medium,MPC Member Broadbent Speaks,4:10am
+Fri Nov 18,CHF,medium,Gov Board Member Maechler Speaks,5:30am
+Fri Nov 18,EUR,medium,German Buba President Weidmann Speaks,5:30am
+Thu Dec 22,USD,medium,Core PCE Price Index m/m,8:30am
+Thu Dec 22,USD,medium,Personal Spending m/m,8:30am
+Thu Dec 22,USD,low,Final GDP Price Index q/q,8:30am
+Thu Dec 22,USD,low,Personal Income m/m,8:30am
+Thu Dec 22,USD,low,HPI m/m,9:00am
+Fri Nov 18,USD,medium,FOMC Member Bullard Speaks,5:30am
+Fri Nov 18,CAD,high,Core CPI m/m,8:30am
+Fri Nov 18,CAD,medium,CPI m/m,8:30am
+Fri Nov 18,USD,medium,FOMC Member Dudley Speaks,9:30am
+Fri Nov 18,USD,medium,FOMC Member George Speaks,9:30am
+Thu Dec 22,USD,low,CB Leading Index m/m,10:00am
+Thu Dec 22,USD,low,Natural Gas Storage,10:30am
+Thu Dec 22,JPY,holiday,Bank Holiday,All Day
+Thu Dec 22,GBP,low,GfK Consumer Confidence,7:01pm
+Fri Nov 18,USD,low,CB Leading Index m/m,10:00am
+Fri Nov 18,USD,medium,FOMC Member Powell Speaks,9:45pm
+Sat Nov 19,,,,
+Sun Nov 20,JPY,low,Trade Balance,6:50pm
+Fri Dec 23,CHF,medium,KOF Economic Barometer,3:00am
+Fri Dec 23,EUR,low,Italian Prelim CPI m/m,5:00am
+Fri Dec 23,CAD,high,GDP m/m,8:30am
+Fri Dec 23,USD,high,Core Durable Goods Orders m/m,8:30am
+Sun Nov 20,NZD,low,Credit Card Spending y/y,9:00pm
+Sun Nov 20,JPY,low,All Industries Activity m/m,11:30pm
+Mon Nov 21,EUR,low,German Buba Monthly Report,Tentative
+Mon Nov 21,CAD,medium,Wholesale Sales m/m,8:30am
+Fri Dec 23,USD,medium,Durable Goods Orders m/m,8:30am
+Fri Dec 23,USD,medium,New Home Sales,10:00am
+Fri Dec 23,USD,medium,Revised UoM Consumer Sentiment,10:00am
+Fri Dec 23,USD,low,Revised UoM Inflation Expectations,10:00am
+Sat Dec 24,,,,
+Mon Nov 21,CNY,low,CB Leading Index m/m,9:00am
+Mon Nov 21,AUD,low,CB Leading Index m/m,10:30am
+Mon Nov 21,NZD,low,Visitor Arrivals m/m,4:45pm
+Mon Nov 21,AUD,high,Mid-Year Economic and Fiscal Outlook,7:30pm
+Sun Dec 25,NZD,holiday,Bank Holiday,All Day
+Sun Dec 25,AUD,holiday,Bank Holiday,All Day
+Sun Dec 25,JPY,low,Monetary Policy Meeting Minutes,6:50pm
+Sun Dec 25,JPY,low,SPPI y/y,6:50pm
+Tue Nov 22,CHF,low,Trade Balance,2:00am
+Tue Nov 22,GBP,medium,Public Sector Net Borrowing,4:30am
+Tue Nov 22,GBP,low,10-y Bond Auction,Tentative
+Tue Nov 22,GBP,low,CBI Industrial Order Expectations,6:00am
+Mon Dec 26,JPY,low,BOJ Core CPI y/y,12:00am
+Mon Dec 26,CHF,holiday,Bank Holiday,All Day
+Mon Dec 26,EUR,holiday,German Bank Holiday,All Day
+Mon Dec 26,EUR,holiday,Italian Bank Holiday,All Day
+Tue Nov 22,CAD,high,Core Retail Sales m/m,8:30am
+Tue Nov 22,CAD,medium,Retail Sales m/m,8:30am
+Tue Nov 22,EUR,low,Consumer Confidence,10:00am
+Tue Nov 22,USD,medium,Existing Home Sales,10:00am
+Tue Nov 22,JPY,holiday,Bank Holiday,All Day
+Mon Dec 26,GBP,holiday,Bank Holiday,All Day
+Mon Dec 26,CAD,holiday,Bank Holiday,All Day
+Mon Dec 26,USD,holiday,Bank Holiday,All Day
+Mon Dec 26,NZD,holiday,Bank Holiday,All Day
+Tue Nov 22,AUD,medium,Construction Work Done q/q,7:30pm
+Wed Nov 23,EUR,medium,French Flash Manufacturing PMI,3:00am
+Wed Nov 23,EUR,medium,French Flash Services PMI,3:00am
+Wed Nov 23,EUR,medium,German Flash Manufacturing PMI,3:30am
+Mon Dec 26,AUD,holiday,Bank Holiday,All Day
+Mon Dec 26,JPY,medium,Household Spending y/y,6:30pm
+Mon Dec 26,JPY,medium,Tokyo Core CPI y/y,6:30pm
+Mon Dec 26,JPY,low,National Core CPI y/y,6:30pm
+Mon Dec 26,JPY,low,Unemployment Rate,6:30pm
+Wed Nov 23,EUR,medium,German Flash Services PMI,3:30am
+Wed Nov 23,EUR,medium,Flash Manufacturing PMI,4:00am
+Wed Nov 23,EUR,medium,Flash Services PMI,4:00am
+Wed Nov 23,EUR,low,ECB Financial Stability Review,4:00am
+Wed Nov 23,EUR,low,German 10-y Bond Auction,Tentative
+Tue Dec 27,JPY,low,Housing Starts y/y,12:00am
+Tue Dec 27,EUR,low,French Consumer Spending m/m,2:45am
+Tue Dec 27,GBP,holiday,Bank Holiday,All Day
+Tue Dec 27,GBP,high,Current Account,4:30am
+Wed Nov 23,EUR,low,German 30-y Bond Auction,Tentative
+Wed Nov 23,GBP,medium,Autumn Forecast Statement,7:30am
+Wed Nov 23,USD,high,Core Durable Goods Orders m/m,8:30am
+Wed Nov 23,USD,high,Unemployment Claims,8:30am
+Wed Nov 23,USD,medium,Durable Goods Orders m/m,8:30am
+Tue Dec 27,GBP,medium,Final GDP q/q,4:30am
+Tue Dec 27,GBP,low,Index of Services 3m/3m,4:30am
+Tue Dec 27,GBP,low,Revised Business Investment q/q,4:30am
+Tue Dec 27,CAD,holiday,Bank Holiday,All Day
+Tue Dec 27,USD,low,S&P/CS Composite-20 HPI y/y,9:00am
+Wed Nov 23,USD,low,HPI m/m,9:00am
+Wed Nov 23,USD,low,Flash Manufacturing PMI,9:45am
+Wed Nov 23,USD,medium,New Home Sales,10:00am
+Wed Nov 23,USD,medium,Revised UoM Consumer Sentiment,10:00am
+Tue Dec 27,USD,high,CB Consumer Confidence,10:00am
+Tue Dec 27,USD,low,Richmond Manufacturing Index,10:00am
+Tue Dec 27,JPY,low,Prelim Industrial Production m/m,6:50pm
+Tue Dec 27,JPY,low,Retail Sales y/y,6:50pm
+Wed Dec 28,CHF,low,UBS Consumption Indicator,2:00am
+Wed Nov 23,USD,low,Revised UoM Inflation Expectations,10:00am
+Wed Nov 23,USD,high,Crude Oil Inventories,10:30am
+Wed Nov 23,USD,low,Natural Gas Storage,12:00pm
+Wed Nov 23,USD,high,FOMC Meeting Minutes,2:00pm
+Wed Dec 28,EUR,low,German Import Prices m/m,Tentative
+Wed Dec 28,EUR,low,GfK German Consumer Climate,2:00am
+Wed Dec 28,GBP,low,BBA Mortgage Approvals,4:30am
+Wed Dec 28,USD,medium,Pending Home Sales m/m,10:00am
+Wed Nov 23,GBP,low,GfK Consumer Confidence,7:01pm
+Wed Nov 23,JPY,low,Flash Manufacturing PMI,7:30pm
+Thu Nov 24,EUR,low,German Final GDP q/q,2:00am
+Thu Nov 24,EUR,high,German Ifo Business Climate,4:00am
+Wed Dec 28,JPY,low,BOJ Summary of Opinions,6:50pm
+Thu Dec 29,EUR,low,French Prelim CPI m/m,2:45am
+Thu Dec 29,EUR,medium,Spanish Flash CPI y/y,3:00am
+Thu Dec 29,EUR,medium,M3 Money Supply y/y,4:00am
+Thu Nov 24,GBP,low,BBA Mortgage Approvals,4:30am
+Thu Nov 24,EUR,low,GfK German Consumer Climate,7:00am
+Thu Nov 24,USD,holiday,Bank Holiday,All Day
+Thu Nov 24,CAD,low,Corporate Profits q/q,8:30am
+Thu Dec 29,EUR,low,Private Loans y/y,4:00am
+Thu Dec 29,USD,high,Unemployment Claims,8:30am
+Thu Dec 29,USD,low,Goods Trade Balance,8:30am
+Thu Dec 29,USD,low,Prelim Wholesale Inventories m/m,8:30am
+Thu Dec 29,USD,low,Natural Gas Storage,10:30am
+Thu Nov 24,EUR,low,Belgian NBB Business Climate,9:00am
+Thu Nov 24,NZD,medium,Trade Balance,4:45pm
+Thu Nov 24,JPY,medium,Tokyo Core CPI y/y,6:30pm
+Thu Nov 24,JPY,low,National Core CPI y/y,6:30pm
+Thu Dec 29,USD,high,Crude Oil Inventories,11:00am
+Thu Dec 29,AUD,low,Private Sector Credit m/m,7:30pm
+Fri Dec 30,GBP,low,Housing Equity Withdrawal q/q,4:30am
+Fri Dec 30,USD,medium,Chicago PMI,9:45am
+Thu Nov 24,JPY,low,SPPI y/y,6:50pm
+Fri Nov 25,JPY,low,BOJ Core CPI y/y,12:00am
+Fri Nov 25,EUR,low,German Import Prices m/m,Tentative
+Fri Nov 25,GBP,low,Nationwide HPI m/m,Tentative
+Sat Dec 31,CNY,high,Manufacturing PMI,8:00pm
+Sat Dec 31,CNY,medium,Non-Manufacturing PMI,8:00pm
+Fri Nov 25,GBP,high,Second Estimate GDP q/q,4:30am
+Fri Nov 25,GBP,medium,Prelim Business Investment q/q,4:30am
+Fri Nov 25,GBP,low,Index of Services 3m/3m,4:30am
+Fri Nov 25,EUR,low,Italian Retail Sales m/m,5:00am
+Fri Nov 25,GBP,low,CBI Realized Sales,6:00am
+Fri Nov 25,USD,low,Goods Trade Balance,8:30am
+Fri Nov 25,USD,low,Prelim Wholesale Inventories m/m,8:30am
+Fri Nov 25,USD,low,Flash Services PMI,9:45am
+Sat Nov 26,,,,
+Sun Nov 27,JPY,low,Retail Sales y/y,6:50pm
+Mon Nov 28,EUR,medium,M3 Money Supply y/y,4:00am
+Mon Nov 28,EUR,low,Private Loans y/y,4:00am
+Mon Nov 28,JPY,medium,Household Spending y/y,6:30pm
+Mon Nov 28,JPY,low,Unemployment Rate,6:30pm
+Tue Nov 29,EUR,medium,German Prelim CPI m/m,All Day
+Tue Nov 29,EUR,low,French Consumer Spending m/m,2:45am
+Tue Nov 29,EUR,low,French Prelim CPI m/m,2:45am
+Tue Nov 29,EUR,medium,Spanish Flash CPI y/y,3:00am
+Tue Nov 29,EUR,medium,German Unemployment Change,3:55am
+Tue Nov 29,EUR,low,Italian 10-y Bond Auction,Tentative
+Tue Nov 29,GBP,low,FPC Statement,5:30am
+Tue Nov 29,CAD,medium,Current Account,8:30am
+Tue Nov 29,USD,high,Prelim GDP q/q,8:30am
+Tue Nov 29,USD,low,Prelim GDP Price Index q/q,8:30am
+Tue Nov 29,USD,low,S&P/CS Composite-20 HPI y/y,9:00am
+Tue Nov 29,USD,high,CB Consumer Confidence,10:00am
+Tue Nov 29,USD,low,Richmond Manufacturing Index,10:00am
+Tue Nov 29,NZD,high,RBNZ Financial Stability Report,3:00pm
+Tue Nov 29,NZD,low,Building Consents m/m,4:45pm
+Tue Nov 29,NZD,high,RBNZ Gov Wheeler Speaks,5:00pm
+Tue Nov 29,JPY,low,Prelim Industrial Production m/m,6:50pm
+Tue Nov 29,AUD,low,HIA New Home Sales m/m,7:00pm
+Tue Nov 29,NZD,medium,ANZ Business Confidence,7:00pm
+Tue Nov 29,AUD,high,Building Approvals m/m,7:30pm
+Tue Nov 29,AUD,low,Private Sector Credit m/m,7:30pm
+Wed Nov 30,JPY,low,Housing Starts y/y,12:00am
+Wed Nov 30,CHF,low,UBS Consumption Indicator,2:00am
+Wed Nov 30,EUR,medium,German Retail Sales m/m,2:00am
+Wed Nov 30,CHF,medium,KOF Economic Barometer,3:00am
+Wed Nov 30,ALL,medium,OPEC Meetings,All Day
+Wed Nov 30,GBP,medium,Net Lending to Individuals m/m,4:30am
+Wed Nov 30,GBP,low,M4 Money Supply m/m,4:30am
+Wed Nov 30,GBP,low,Mortgage Approvals,4:30am
+Wed Nov 30,EUR,medium,CPI Flash Estimate y/y,5:00am
+Wed Nov 30,EUR,medium,Core CPI Flash Estimate y/y,5:00am
+Wed Nov 30,EUR,low,Italian Prelim CPI m/m,5:00am
+Wed Nov 30,GBP,medium,BOE Financial Stability Report,5:30am
+Wed Nov 30,USD,high,ADP Non-Farm Employment Change,8:15am
+Wed Nov 30,CAD,high,GDP m/m,8:30am
+Wed Nov 30,CAD,medium,RMPI m/m,8:30am
+Wed Nov 30,CAD,low,IPPI m/m,8:30am
+Wed Nov 30,USD,medium,Core PCE Price Index m/m,8:30am
+Wed Nov 30,USD,medium,Personal Spending m/m,8:30am
+Wed Nov 30,USD,low,Personal Income m/m,8:30am
+Wed Nov 30,USD,medium,Chicago PMI,9:45am
+Wed Nov 30,USD,medium,Pending Home Sales m/m,10:00am
+Wed Nov 30,USD,high,Crude Oil Inventories,10:30am
+Wed Nov 30,USD,low,Beige Book,2:00pm
+Wed Nov 30,NZD,low,Overseas Trade Index q/q,4:45pm
+Wed Nov 30,AUD,low,AIG Manufacturing Index,5:30pm
+Wed Nov 30,JPY,low,Capital Spending q/y,6:50pm
+Wed Nov 30,AUD,high,Private Capital Expenditure q/q,7:30pm
+Wed Nov 30,JPY,low,Final Manufacturing PMI,7:30pm
+Wed Nov 30,CNY,high,Manufacturing PMI,8:00pm
+Wed Nov 30,CNY,medium,Non-Manufacturing PMI,8:00pm
+Wed Nov 30,CNY,high,Caixin Manufacturing PMI,8:45pm
+Wed Nov 30,JPY,low,10-y Bond Auction,10:45pm
