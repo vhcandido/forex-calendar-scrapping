@@ -2,8 +2,10 @@ import scrapy
 
 class FXCalendarSpider(scrapy.Spider):
     name = "events"
+    base_url = 'http://www.forexfactory.com/calendar.php?month=%s'
     start_urls = [
-            'http://www.forexfactory.com/calendar.php',
+            base_url % 'this',
+            base_url % 'next',
     ]
 
     def parse(self, response):
