@@ -13,22 +13,34 @@ class FXCalendarSpider(scrapy.Spider):
 
         date = None
         time = None
+        impact = None
         for event in response.css(css_str):
 
             if not event.css('td span.date::text').extract_first() is None:
-                time = None # It's a tr.newday, so it must not get the time from the last row
                 date = event.css('td span.date::text').extract_first() + ' ' + \
-                event.css('td span.date span::text').extract_first()
+                    event.css('td span.date span::text').extract_first()
+
+                # It's a tr.newday, so it must not get information from the last row
+                time = None
 
             if not event.css('td.calendar__cell.calendar__time.time::text').extract_first() is None:
                 time = event.css('td.calendar__cell.calendar__time.time::text').extract_first()
+
+            impact = None
+            if not event.css('td.calendar__cell.calendar__impact.impact' + \
+                    ' div.calendar__impact-icon' + \
+                    ' span::attr("class")').extract_first() is None:
+                    impact = event.css('td.calendar__cell.calendar__impact.impact' + \
+                        ' div.calendar__impact-icon' + \
+                        ' span::attr("class")').extract_first()
 
             yield {
                     'date': date,
                     'time': time,
                     'currency': event.css('td.calendar__cell.calendar__currency.currency::text').extract_first(),
-                    #'calendar_impact':,
-                    #'event':,
+                    'calendar_impact': impact,
+                    'event': event.css('td.calendar__cell.calendar__event.event' + \
+                            ' div span.calendar__event-title::text').extract_first(),
                     #'detail':,
                     #'actual':,
                     #'forecast':,
