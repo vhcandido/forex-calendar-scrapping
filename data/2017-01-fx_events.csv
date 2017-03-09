@@ -1,0 +1,380 @@
+impact,forecast,currency,weekday,time,date,event
+holiday,,AUD,Sun,All Day,2017-01-01,Bank Holiday
+holiday,,CNY,Sun,All Day,2017-01-01,Bank Holiday
+holiday,,JPY,Sun,All Day,2017-01-01,Bank Holiday
+holiday,,NZD,Sun,All Day,2017-01-01,Bank Holiday
+medium,54.6,EUR,Mon,3:15am,2017-01-02,Spanish Manufacturing PMI
+low,52.3,EUR,Mon,3:45am,2017-01-02,Italian Manufacturing PMI
+low,53.5,EUR,Mon,3:50am,2017-01-02,French Final Manufacturing PMI
+low,55.5,EUR,Mon,3:55am,2017-01-02,German Final Manufacturing PMI
+low,54.9,EUR,Mon,4:00am,2017-01-02,Final Manufacturing PMI
+low,,AUD,Mon,5:30pm,2017-01-02,AIG Manufacturing Index
+high,50.9,CNY,Mon,8:45pm,2017-01-02,Caixin Manufacturing PMI
+holiday,,CAD,Mon,All Day,2017-01-02,Bank Holiday
+holiday,,CHF,Mon,All Day,2017-01-02,Bank Holiday
+holiday,,GBP,Mon,All Day,2017-01-02,Bank Holiday
+holiday,,JPY,Mon,All Day,2017-01-02,Bank Holiday
+holiday,,NZD,Mon,All Day,2017-01-02,Bank Holiday
+holiday,,USD,Mon,All Day,2017-01-02,Bank Holiday
+high,53.7,USD,Tue,10:00am,2017-01-03,ISM Manufacturing PMI
+low,0.5%,USD,Tue,10:00am,2017-01-03,Construction Spending m/m
+low,55.6,USD,Tue,10:00am,2017-01-03,ISM Manufacturing Prices
+low,,AUD,Tue,12:33am,2017-01-03,Commodity Prices y/y
+low,0.5%,EUR,Tue,2:45am,2017-01-03,French Prelim CPI m/m
+low,56.1,CHF,Tue,3:30am,2017-01-03,Manufacturing PMI
+medium,-5K,EUR,Tue,3:55am,2017-01-03,German Unemployment Change
+high,53.3,GBP,Tue,4:30am,2017-01-03,Manufacturing PMI
+low,,GBP,Tue,7:01pm,2017-01-03,BRC Shop Price Index y/y
+low,51.9,JPY,Tue,7:30pm,2017-01-03,Final Manufacturing PMI
+high,,NZD,Tue,9:09am,2017-01-03,GDT Price Index
+low,,CAD,Tue,9:30am,2017-01-03,RBC Manufacturing PMI
+low,54.2,USD,Tue,9:45am,2017-01-03,Final Manufacturing PMI
+medium,0.6%,EUR,Tue,All Day,2017-01-03,German Prelim CPI m/m
+low,,JPY,Wed,10:45pm,2017-01-04,10-y Bond Auction
+high,,USD,Wed,2:00pm,2017-01-04,FOMC Meeting Minutes
+medium,-44.2K,EUR,Wed,3:00am,2017-01-04,Spanish Unemployment Change
+low,54.8,EUR,Wed,3:15am,2017-01-04,Spanish Services PMI
+low,52.7,EUR,Wed,3:45am,2017-01-04,Italian Services PMI
+low,52.6,EUR,Wed,3:50am,2017-01-04,French Final Services PMI
+low,53.8,EUR,Wed,3:55am,2017-01-04,German Final Services PMI
+low,53.1,EUR,Wed,4:00am,2017-01-04,Final Services PMI
+high,52.6,GBP,Wed,4:30am,2017-01-04,Construction PMI
+medium,4.9B,GBP,Wed,4:30am,2017-01-04,Net Lending to Individuals m/m
+low,1.4%,GBP,Wed,4:30am,2017-01-04,M4 Money Supply m/m
+low,69K,GBP,Wed,4:30am,2017-01-04,Mortgage Approvals
+medium,1.0%,EUR,Wed,5:00am,2017-01-04,CPI Flash Estimate y/y
+medium,0.8%,EUR,Wed,5:00am,2017-01-04,Core CPI Flash Estimate y/y
+low,0.3%,EUR,Wed,5:00am,2017-01-04,Italian Prelim CPI m/m
+low,,AUD,Wed,5:30pm,2017-01-04,AIG Services Index
+low,22.3%,JPY,Wed,6:50pm,2017-01-04,Monetary Base y/y
+medium,53.3,CNY,Wed,8:45pm,2017-01-04,Caixin Services PMI
+low,17.8M,USD,Wed,All Day,2017-01-04,Total Vehicle Sales
+high,56.6,USD,Thu,10:00am,2017-01-05,ISM Non-Manufacturing PMI
+low,-97B,USD,Thu,10:30am,2017-01-05,Natural Gas Storage
+high,-1.8M,USD,Thu,11:00am,2017-01-05,Crude Oil Inventories
+low,-0.1%,CHF,Thu,3:15am,2017-01-05,CPI m/m
+low,,EUR,Thu,4:10am,2017-01-05,Retail PMI
+high,54.8,GBP,Thu,4:30am,2017-01-05,Services PMI
+low,,EUR,Thu,4:50am,2017-01-05,Spanish 10-y Bond Auction
+low,0.2%,EUR,Thu,5:00am,2017-01-05,PPI m/m
+low,,EUR,Thu,5:03am,2017-01-05,French 10-y Bond Auction
+low,0.2%,JPY,Thu,7:00pm,2017-01-05,Average Cash Earnings y/y
+low,,USD,Thu,7:30am,2017-01-05,Challenger Job Cuts y/y
+medium,-0.55B,AUD,Thu,7:30pm,2017-01-05,Trade Balance
+medium,,GBP,Thu,8:00am,2017-01-05,MPC Member Haldane Speaks
+high,171K,USD,Thu,8:15am,2017-01-05,ADP Non-Farm Employment Change
+medium,-1.5%,CAD,Thu,8:30am,2017-01-05,RMPI m/m
+low,0.2%,CAD,Thu,8:30am,2017-01-05,IPPI m/m
+high,262K,USD,Thu,8:30am,2017-01-05,Unemployment Claims
+low,53.4,USD,Thu,9:45am,2017-01-05,Final Services PMI
+medium,56.0,CAD,Fri,10:00am,2017-01-06,Ivey PMI
+medium,-2.1%,USD,Fri,10:00am,2017-01-06,Factory Orders m/m
+medium,,USD,Fri,12:15pm,2017-01-06,FOMC Member Evans Speaks
+medium,-2.5%,EUR,Fri,2:00am,2017-01-06,German Factory Orders m/m
+medium,-0.8%,EUR,Fri,2:00am,2017-01-06,German Retail Sales m/m
+low,-4.8B,EUR,Fri,2:45am,2017-01-06,French Trade Balance
+low,,CHF,Fri,3:00am,2017-01-06,Foreign Currency Reserves
+low,-0.3%,EUR,Fri,5:00am,2017-01-06,Retail Sales m/m
+high,-5.1K,CAD,Fri,8:30am,2017-01-06,Employment Change
+high,-1.6B,CAD,Fri,8:30am,2017-01-06,Trade Balance
+high,6.9%,CAD,Fri,8:30am,2017-01-06,Unemployment Rate
+high,0.3%,USD,Fri,8:30am,2017-01-06,Average Hourly Earnings m/m
+high,175K,USD,Fri,8:30am,2017-01-06,Non-Farm Employment Change
+high,4.7%,USD,Fri,8:30am,2017-01-06,Unemployment Rate
+medium,-42.2B,USD,Fri,8:30am,2017-01-06,Trade Balance
+holiday,,EUR,Fri,All Day,2017-01-06,Italian Bank Holiday
+,,,Sat,,2017-01-07,
+low,,AUD,Sun,5:30pm,2017-01-08,AIG Construction Index
+medium,4.6%,AUD,Sun,7:30pm,2017-01-08,Building Approvals m/m
+low,,AUD,Sun,7:30pm,2017-01-08,ANZ Job Advertisements m/m
+holiday,,JPY,Sun,All Day,2017-01-08,Bank Holiday
+low,,USD,Mon,10:00am,2017-01-09,Labor Market Conditions Index m/m
+medium,,CAD,Mon,10:30am,2017-01-09,BOC Business Outlook Survey
+low,0.7%,EUR,Mon,2:00am,2017-01-09,German Industrial Production m/m
+low,20.8B,EUR,Mon,2:00am,2017-01-09,German Trade Balance
+low,18.3B,USD,Mon,3:00pm,2017-01-09,Consumer Credit m/m
+low,0.4%,CHF,Mon,3:15am,2017-01-09,Retail Sales y/y
+medium,0.3%,GBP,Mon,3:30am,2017-01-09,Halifax HPI m/m
+low,11.6%,EUR,Mon,4:00am,2017-01-09,Italian Monthly Unemployment Rate
+low,12.6,EUR,Mon,4:30am,2017-01-09,Sentix Investor Confidence
+low,9.8%,EUR,Mon,5:00am,2017-01-09,Unemployment Rate
+low,,GBP,Mon,7:01pm,2017-01-09,BRC Retail Sales Monitor y/y
+high,0.4%,AUD,Mon,7:30pm,2017-01-09,Retail Sales m/m
+high,2.2%,CNY,Mon,8:30pm,2017-01-09,CPI y/y
+medium,4.6%,CNY,Mon,8:30pm,2017-01-09,PPI y/y
+medium,5.59M,USD,Tue,10:00am,2017-01-10,JOLTS Job Openings
+low,0.9%,USD,Tue,10:00am,2017-01-10,Final Wholesale Inventories m/m
+low,,JPY,Tue,10:45pm,2017-01-10,30-y Bond Auction
+low,41.3,JPY,Tue,12:00am,2017-01-10,Consumer Confidence
+low,3.3%,CHF,Tue,1:45am,2017-01-10,Unemployment Rate
+low,0.5%,EUR,Tue,2:45am,2017-01-10,French Industrial Production m/m
+low,99.6,USD,Tue,6:00am,2017-01-10,NFIB Small Business Index
+low,187K,CAD,Tue,8:13am,2017-01-10,Housing Starts
+medium,2.4%,CAD,Tue,8:30am,2017-01-10,Building Permits m/m
+low,53.9,USD,Wed,10:00am,2017-01-11,IBD/TIPP Economic Optimism
+high,0.9M,USD,Wed,10:30am,2017-01-11,Crude Oil Inventories
+high,,USD,Wed,11:00am,2017-01-11,President Trump Speaks
+low,102.6%,JPY,Wed,12:00am,2017-01-11,Leading Indicators
+low,,USD,Wed,1:01pm,2017-01-11,10-y Bond Auction
+medium,,USD,Wed,1:20pm,2017-01-11,FOMC Member Dudley Speaks
+high,0.6%,GBP,Wed,4:30am,2017-01-11,Manufacturing Production m/m
+medium,-11.2B,GBP,Wed,4:30am,2017-01-11,Goods Trade Balance
+low,0.3%,GBP,Wed,4:30am,2017-01-11,Construction Output m/m
+low,0.8%,GBP,Wed,4:30am,2017-01-11,Industrial Production m/m
+low,,EUR,Wed,5:33am,2017-01-11,German 10-y Bond Auction
+low,2.4%,JPY,Wed,6:50pm,2017-01-11,Bank Lending y/y
+low,1.48T,JPY,Wed,6:50pm,2017-01-11,Current Account
+low,,NZD,Wed,7:00pm,2017-01-11,ANZ Commodity Prices m/m
+high,,GBP,Wed,9:15am,2017-01-11,BOE Gov Carney Speaks
+low,,GBP,Wed,9:38am,2017-01-11,NIESR GDP Estimate
+low,-150B,USD,Thu,10:30am,2017-01-12,Natural Gas Storage
+low,49.3,JPY,Thu,12:00am,2017-01-12,Economy Watchers Sentiment
+low,,USD,Thu,1:01pm,2017-01-12,30-y Bond Auction
+low,-21.0B,USD,Thu,2:00pm,2017-01-12,Federal Budget Balance
+low,0.3%,EUR,Thu,2:45am,2017-01-12,French Final CPI m/m
+low,11.4%,CNY,Thu,4:00am,2017-01-12,M2 Money Supply y/y
+low,676B,CNY,Thu,4:00am,2017-01-12,New Loans
+low,0.2%,EUR,Thu,4:00am,2017-01-12,Italian Industrial Production m/m
+low,0.5%,EUR,Thu,5:00am,2017-01-12,Industrial Production m/m
+low,,GBP,Thu,5:34am,2017-01-12,10-y Bond Auction
+low,4.1%,JPY,Thu,6:50pm,2017-01-12,M2 Money Stock y/y
+high,,USD,Thu,7:00pm,2017-01-12,Fed Chair Yellen Speaks
+medium,,EUR,Thu,7:30am,2017-01-12,ECB Monetary Policy Meeting Accounts
+medium,0.3%,CAD,Thu,8:30am,2017-01-12,NHPI m/m
+high,266K,USD,Thu,8:30am,2017-01-12,Unemployment Claims
+medium,,USD,Thu,8:30am,2017-01-12,FOMC Member Evans Speaks
+medium,,USD,Thu,8:30am,2017-01-12,FOMC Member Harker Speaks
+medium,0.8%,USD,Thu,8:30am,2017-01-12,Import Prices m/m
+low,47.6B,CNY,Thu,9:47pm,2017-01-12,USD-Denominated Trade Balance
+high,345B,CNY,Thu,9:50pm,2017-01-12,Trade Balance
+high,98.6,USD,Fri,10:00am,2017-01-13,Prelim UoM Consumer Sentiment
+low,0.3%,USD,Fri,10:00am,2017-01-13,Business Inventories m/m
+low,,USD,Fri,10:00am,2017-01-13,Prelim UoM Inflation Expectations
+low,0.3%,EUR,Fri,2:00am,2017-01-13,German WPI m/m
+medium,,GBP,Fri,4:30am,2017-01-13,BOE Credit Conditions Survey
+medium,,GBP,Fri,4:30am,2017-01-13,MPC Member Saunders Speaks
+low,,CNY,Fri,6:12am,2017-01-13,Foreign Direct Investment ytd/y
+high,0.5%,USD,Fri,8:30am,2017-01-13,Core Retail Sales m/m
+high,0.1%,USD,Fri,8:30am,2017-01-13,PPI m/m
+high,0.5%,USD,Fri,8:30am,2017-01-13,Retail Sales m/m
+medium,0.3%,USD,Fri,8:30am,2017-01-13,Core PPI m/m
+medium,,USD,Fri,9:30am,2017-01-13,FOMC Member Harker Speaks
+,,,Sat,,2017-01-14,
+low,0.2%,JPY,Sun,11:30pm,2017-01-15,Tertiary Industry Activity m/m
+low,,NZD,Sun,4:45pm,2017-01-15,FPI m/m
+low,-1.3%,JPY,Sun,6:50pm,2017-01-15,Core Machinery Orders m/m
+low,-1.4%,JPY,Sun,6:50pm,2017-01-15,PPI y/y
+low,,AUD,Sun,7:00pm,2017-01-15,MI Inflation Gauge m/m
+low,,GBP,Sun,7:01pm,2017-01-15,Rightmove HPI m/m
+low,1.5%,JPY,Mon,11:30pm,2017-01-16,Revised Industrial Production m/m
+low,,JPY,Mon,12:59am,2017-01-16,Prelim Machine Tool Orders y/y
+high,,GBP,Mon,1:30pm,2017-01-16,BOE Gov Carney Speaks
+medium,,NZD,Mon,4:00pm,2017-01-16,NZIER Business Confidence
+low,23.2B,EUR,Mon,5:00am,2017-01-16,Trade Balance
+low,0.1%,AUD,Mon,7:30pm,2017-01-16,Home Loans m/m
+low,,AUD,Mon,7:30pm,2017-01-16,New Motor Vehicle Sales m/m
+holiday,,USD,Mon,All Day,2017-01-16,Bank Holiday
+high,,USD,Tue,10:00am,2017-01-17,Treasury Sec Lew Speaks
+medium,,USD,Tue,10:00am,2017-01-17,FOMC Member Brainard Speaks
+low,3.84B,EUR,Tue,4:00am,2017-01-17,Italian Trade Balance
+high,1.4%,GBP,Tue,4:30am,2017-01-17,CPI y/y
+medium,2.2%,GBP,Tue,4:30am,2017-01-17,PPI Input m/m
+medium,2.3%,GBP,Tue,4:30am,2017-01-17,RPI y/y
+low,1.4%,GBP,Tue,4:30am,2017-01-17,Core CPI y/y
+low,6.3%,GBP,Tue,4:30am,2017-01-17,HPI y/y
+low,0.3%,GBP,Tue,4:30am,2017-01-17,PPI Output m/m
+medium,18.9,EUR,Tue,5:00am,2017-01-17,German ZEW Economic Sentiment
+low,24.2,EUR,Tue,5:00am,2017-01-17,ZEW Economic Sentiment
+low,,EUR,Tue,5:36am,2017-01-17,French Gov Budget Balance
+low,,AUD,Tue,6:30pm,2017-01-17,Westpac Consumer Sentiment
+high,,GBP,Tue,6:45am,2017-01-17,Prime Minister May Speaks
+medium,8.1,USD,Tue,8:30am,2017-01-17,Empire State Manufacturing Index
+medium,,USD,Tue,8:45am,2017-01-17,FOMC Member Dudley Speaks
+high,,NZD,Tue,8:47am,2017-01-17,GDT Price Index
+low,,GBP,Tue,9:30am,2017-01-17,CB Leading Index m/m
+medium,,ALL,Tue,Day 1,2017-01-17,WEF Annual Meetings
+high,,CAD,Wed,10:00am,2017-01-18,BOC Monetary Policy Report
+high,,CAD,Wed,10:00am,2017-01-18,BOC Rate Statement
+high,0.50%,CAD,Wed,10:00am,2017-01-18,Overnight Rate
+low,69,USD,Wed,10:00am,2017-01-18,NAHB Housing Market Index
+medium,,USD,Wed,11:00am,2017-01-18,FOMC Member Kashkari Speaks
+high,,CAD,Wed,11:15am,2017-01-18,BOC Press Conference
+low,0.7%,EUR,Wed,2:00am,2017-01-18,German Final CPI m/m
+low,,USD,Wed,2:00pm,2017-01-18,Beige Book
+high,,USD,Wed,3:00pm,2017-01-18,Fed Chair Yellen Speaks
+low,21.3B,USD,Wed,4:00pm,2017-01-18,TIC Long-Term Purchases
+high,2.6%,GBP,Wed,4:30am,2017-01-18,Average Earnings Index 3m/y
+high,4.6K,GBP,Wed,4:30am,2017-01-18,Claimant Count Change
+medium,4.8%,GBP,Wed,4:30am,2017-01-18,Unemployment Rate
+low,,NZD,Wed,4:30pm,2017-01-18,Business NZ Manufacturing Index
+low,,NZD,Wed,4:45pm,2017-01-18,Building Consents m/m
+medium,1.1%,EUR,Wed,5:00am,2017-01-18,Final CPI y/y
+low,0.9%,EUR,Wed,5:00am,2017-01-18,Final Core CPI y/y
+low,,AUD,Wed,7:00pm,2017-01-18,MI Inflation Expectations
+low,32%,GBP,Wed,7:01pm,2017-01-18,RICS House Price Balance
+high,10.2K,AUD,Wed,7:30pm,2017-01-18,Employment Change
+high,5.7%,AUD,Wed,7:30pm,2017-01-18,Unemployment Rate
+high,0.3%,USD,Wed,8:30am,2017-01-18,CPI m/m
+high,0.2%,USD,Wed,8:30am,2017-01-18,Core CPI m/m
+medium,75.6%,USD,Wed,9:15am,2017-01-18,Capacity Utilization Rate
+medium,0.8%,USD,Wed,9:15am,2017-01-18,Industrial Production m/m
+medium,,ALL,Wed,Day 2,2017-01-18,WEF Annual Meetings
+low,-235B,USD,Thu,10:30am,2017-01-19,Natural Gas Storage
+high,0.1M,USD,Thu,11:00am,2017-01-19,Crude Oil Inventories
+medium,0.2%,CHF,Thu,3:15am,2017-01-19,PPI m/m
+low,29.3B,EUR,Thu,4:00am,2017-01-19,Current Account
+low,,AUD,Thu,7:00pm,2017-01-19,HIA New Home Sales m/m
+high,0.00%,EUR,Thu,7:45am,2017-01-19,Minimum Bid Rate
+high,,USD,Thu,8:00pm,2017-01-19,Fed Chair Yellen Speaks
+high,0.2%,CAD,Thu,8:30am,2017-01-19,Manufacturing Sales m/m
+medium,10.23B,CAD,Thu,8:30am,2017-01-19,Foreign Securities Purchases
+high,,EUR,Thu,8:30am,2017-01-19,ECB Press Conference
+high,1.22M,USD,Thu,8:30am,2017-01-19,Building Permits
+high,16.3,USD,Thu,8:30am,2017-01-19,Philly Fed Manufacturing Index
+high,252K,USD,Thu,8:30am,2017-01-19,Unemployment Claims
+medium,1.19M,USD,Thu,8:30am,2017-01-19,Housing Starts
+high,6.7%,CNY,Thu,9:00pm,2017-01-19,GDP q/y
+high,6.1%,CNY,Thu,9:00pm,2017-01-19,Industrial Production y/y
+medium,8.3%,CNY,Thu,9:00pm,2017-01-19,Fixed Asset Investment ytd/y
+medium,,CNY,Thu,9:00pm,2017-01-19,NBS Press Conference
+low,10.7%,CNY,Thu,9:00pm,2017-01-19,Retail Sales y/y
+medium,,ALL,Thu,Day 3,2017-01-19,WEF Annual Meetings
+high,,USD,Fri,12:00pm,2017-01-20,President Trump Speaks
+low,0.4%,EUR,Fri,2:00am,2017-01-20,German PPI m/m
+high,-0.1%,GBP,Fri,4:30am,2017-01-20,Retail Sales m/m
+high,0.0%,CAD,Fri,8:30am,2017-01-20,CPI m/m
+high,0.1%,CAD,Fri,8:30am,2017-01-20,Core Retail Sales m/m
+medium,0.5%,CAD,Fri,8:30am,2017-01-20,Retail Sales m/m
+medium,,CAD,Fri,8:30am,2017-01-20,Trimmed Core CPI y/y
+low,0.2%,CAD,Fri,8:32am,2017-01-20,Core CPI m/m
+medium,,USD,Fri,9:00am,2017-01-20,FOMC Member Harker Speaks
+medium,,ALL,Fri,Day 4,2017-01-20,WEF Annual Meetings
+,,,Sat,,2017-01-21,
+low,0.4%,JPY,Sun,11:30pm,2017-01-22,All Industries Activity m/m
+low,-5,EUR,Mon,10:00am,2017-01-23,Consumer Confidence
+low,,EUR,Mon,6:00am,2017-01-23,German Buba Monthly Report
+high,,EUR,Mon,6:30am,2017-01-23,ECB President Draghi Speaks
+low,52.3,JPY,Mon,7:30pm,2017-01-23,Flash Manufacturing PMI
+medium,0.3%,CAD,Mon,8:30am,2017-01-23,Wholesale Sales m/m
+low,,CNY,Mon,9:00am,2017-01-23,CB Leading Index m/m
+medium,5.54M,USD,Tue,10:00am,2017-01-24,Existing Home Sales
+low,7,USD,Tue,10:00am,2017-01-24,Richmond Manufacturing Index
+low,,AUD,Tue,10:30am,2017-01-24,CB Leading Index m/m
+medium,53.4,EUR,Tue,3:00am,2017-01-24,French Flash Manufacturing PMI
+medium,53.2,EUR,Tue,3:00am,2017-01-24,French Flash Services PMI
+medium,55.5,EUR,Tue,3:30am,2017-01-24,German Flash Manufacturing PMI
+medium,54.6,EUR,Tue,3:30am,2017-01-24,German Flash Services PMI
+medium,54.8,EUR,Tue,4:00am,2017-01-24,Flash Manufacturing PMI
+medium,53.9,EUR,Tue,4:00am,2017-01-24,Flash Services PMI
+high,,GBP,Tue,4:30am,2017-01-24,EU Membership Court Ruling
+medium,6.7B,GBP,Tue,4:30am,2017-01-24,Public Sector Net Borrowing
+low,,AUD,Tue,6:30pm,2017-01-24,MI Leading Index m/m
+low,0.22T,JPY,Tue,6:50pm,2017-01-24,Trade Balance
+high,0.7%,AUD,Tue,7:30pm,2017-01-24,CPI q/q
+high,0.5%,AUD,Tue,7:30pm,2017-01-24,Trimmed Mean CPI q/q
+low,,NZD,Tue,9:00pm,2017-01-24,Credit Card Spending y/y
+low,54.6,USD,Tue,9:45am,2017-01-24,Flash Manufacturing PMI
+high,1.5M,USD,Wed,10:30am,2017-01-25,Crude Oil Inventories
+high,,GBP,Wed,11:50am,2017-01-25,BOE Gov Carney Speaks
+low,,CHF,Wed,2:00am,2017-01-25,UBS Consumption Indicator
+low,,CHF,Wed,4:00am,2017-01-25,Credit Suisse Economic Expectations
+high,111.3,EUR,Wed,4:00am,2017-01-25,German Ifo Business Climate
+high,0.3%,NZD,Wed,4:45pm,2017-01-25,CPI q/q
+low,,EUR,Wed,5:33am,2017-01-25,German 30-y Bond Auction
+low,2,GBP,Wed,6:00am,2017-01-25,CBI Industrial Order Expectations
+low,0.4%,JPY,Wed,6:50pm,2017-01-25,SPPI y/y
+low,0.4,EUR,Wed,8:59am,2017-01-25,Belgian NBB Business Climate
+low,0.4%,USD,Wed,9:00am,2017-01-25,HPI m/m
+holiday,,AUD,Wed,All Day,2017-01-25,Bank Holiday
+medium,585K,USD,Thu,10:00am,2017-01-26,New Home Sales
+low,0.5%,USD,Thu,10:00am,2017-01-26,CB Leading Index m/m
+low,-121B,USD,Thu,10:30am,2017-01-26,Natural Gas Storage
+low,2.81B,CHF,Thu,2:00am,2017-01-26,Trade Balance
+low,10.0,EUR,Thu,2:00am,2017-01-26,GfK German Consumer Climate
+medium,18.9%,EUR,Thu,3:00am,2017-01-26,Spanish Unemployment Rate
+medium,,EUR,Thu,3:30am,2017-01-26,German Buba President Weidmann Speaks
+low,0.1%,EUR,Thu,4:00am,2017-01-26,Italian Retail Sales m/m
+high,0.5%,GBP,Thu,4:30am,2017-01-26,Prelim GDP q/q
+low,41.1K,GBP,Thu,4:30am,2017-01-26,BBA Mortgage Approvals
+low,0.9%,GBP,Thu,4:30am,2017-01-26,Index of Services 3m/3m
+low,28,GBP,Thu,6:00am,2017-01-26,CBI Realized Sales
+medium,-0.4%,JPY,Thu,6:30pm,2017-01-26,Tokyo Core CPI y/y
+low,-0.3%,JPY,Thu,6:30pm,2017-01-26,National Core CPI y/y
+low,0.4%,AUD,Thu,7:30pm,2017-01-26,Import Prices q/q
+low,0.2%,AUD,Thu,7:30pm,2017-01-26,PPI q/q
+high,247K,USD,Thu,8:30am,2017-01-26,Unemployment Claims
+low,-64.5B,USD,Thu,8:30am,2017-01-26,Goods Trade Balance
+low,0.9%,USD,Thu,8:30am,2017-01-26,Prelim Wholesale Inventories m/m
+low,54.4,USD,Thu,9:45am,2017-01-26,Flash Services PMI
+holiday,,CNY,Thu,All Day,2017-01-26,Bank Holiday
+high,,EUR,Thu,All Day,2017-01-26,Eurogroup Meetings
+medium,98.2,USD,Fri,10:00am,2017-01-27,Revised UoM Consumer Sentiment
+low,,USD,Fri,10:00am,2017-01-27,Revised UoM Inflation Expectations
+low,0.1%,JPY,Fri,12:00am,2017-01-27,BOJ Core CPI y/y
+low,1.3%,EUR,Fri,2:00am,2017-01-27,German Import Prices m/m
+medium,4.9%,EUR,Fri,4:00am,2017-01-27,M3 Money Supply y/y
+low,2.0%,EUR,Fri,4:00am,2017-01-27,Private Loans y/y
+high,2.1%,USD,Fri,8:30am,2017-01-27,Advance GDP q/q
+high,0.5%,USD,Fri,8:30am,2017-01-27,Core Durable Goods Orders m/m
+medium,2.1%,USD,Fri,8:30am,2017-01-27,Advance GDP Price Index q/q
+medium,2.7%,USD,Fri,8:30am,2017-01-27,Durable Goods Orders m/m
+medium,,EUR,Fri,All Day,2017-01-27,ECOFIN Meetings
+,,,Sat,,2017-01-28,
+medium,-95M,NZD,Sun,4:45pm,2017-01-29,Trade Balance
+low,1.6%,JPY,Sun,6:50pm,2017-01-29,Retail Sales y/y
+holiday,,CNY,Sun,All Day,2017-01-29,Bank Holiday
+medium,1.6%,USD,Mon,10:00am,2017-01-30,Pending Home Sales m/m
+medium,,AUD,Mon,2:45am,2017-01-30,RBA Assist Gov Debelle Speaks
+medium,102.9,CHF,Mon,3:00am,2017-01-30,KOF Economic Barometer
+medium,0.7%,EUR,Mon,3:00am,2017-01-30,Spanish Flash GDP q/q
+low,,NZD,Mon,4:45pm,2017-01-30,Visitor Arrivals m/m
+low,,EUR,Mon,5:18am,2017-01-30,Italian 10-y Bond Auction
+low,-8,GBP,Mon,6:22pm,2017-01-30,GfK Consumer Confidence
+medium,-0.8%,JPY,Mon,6:30pm,2017-01-30,Household Spending y/y
+low,3.1%,JPY,Mon,6:30pm,2017-01-30,Unemployment Rate
+low,0.4%,JPY,Mon,6:50pm,2017-01-30,Prelim Industrial Production m/m
+low,,AUD,Mon,7:30pm,2017-01-30,NAB Business Confidence
+low,0.5%,AUD,Mon,7:30pm,2017-01-30,Private Sector Credit m/m
+medium,0.1%,USD,Mon,8:30am,2017-01-30,Core PCE Price Index m/m
+medium,0.4%,USD,Mon,8:30am,2017-01-30,Personal Spending m/m
+low,0.4%,USD,Mon,8:30am,2017-01-30,Personal Income m/m
+high,,JPY,Mon,9:56pm,2017-01-30,BOJ Outlook Report
+high,-0.10%,JPY,Mon,9:56pm,2017-01-30,BOJ Policy Rate
+high,,JPY,Mon,9:56pm,2017-01-30,Monetary Policy Statement
+holiday,,CNY,Mon,All Day,2017-01-30,Bank Holiday
+medium,-0.5%,EUR,Mon,All Day,2017-01-30,German Prelim CPI m/m
+high,112.6,USD,Tue,10:00am,2017-01-31,CB Consumer Confidence
+low,8.5%,JPY,Tue,12:00am,2017-01-31,Housing Starts y/y
+low,0.4%,EUR,Tue,1:30am,2017-01-31,French Prelim GDP q/q
+high,,JPY,Tue,1:30am,2017-01-31,BOJ Press Conference
+medium,0.6%,EUR,Tue,2:00am,2017-01-31,German Retail Sales m/m
+low,0.2%,EUR,Tue,2:45am,2017-01-31,French Consumer Spending m/m
+low,-0.5%,EUR,Tue,2:45am,2017-01-31,French Prelim CPI m/m
+high,,EUR,Tue,3:00am,2017-01-31,ECB President Draghi Speaks
+medium,2.4%,EUR,Tue,3:00am,2017-01-31,Spanish Flash CPI y/y
+medium,-5K,EUR,Tue,3:55am,2017-01-31,German Unemployment Change
+low,11.8%,EUR,Tue,4:00am,2017-01-31,Italian Monthly Unemployment Rate
+medium,5.3B,GBP,Tue,4:30am,2017-01-31,Net Lending to Individuals m/m
+low,0.3%,GBP,Tue,4:30am,2017-01-31,M4 Money Supply m/m
+low,69K,GBP,Tue,4:30am,2017-01-31,Mortgage Approvals
+high,0.8%,NZD,Tue,4:45pm,2017-01-31,Employment Change q/q
+high,4.8%,NZD,Tue,4:45pm,2017-01-31,Unemployment Rate
+low,0.5%,NZD,Tue,4:45pm,2017-01-31,Labor Cost Index q/q
+medium,1.5%,EUR,Tue,5:00am,2017-01-31,CPI Flash Estimate y/y
+medium,0.9%,EUR,Tue,5:00am,2017-01-31,Core CPI Flash Estimate y/y
+medium,0.4%,EUR,Tue,5:00am,2017-01-31,Prelim Flash GDP q/q
+low,9.8%,EUR,Tue,5:00am,2017-01-31,Unemployment Rate
+low,,AUD,Tue,5:30pm,2017-01-31,AIG Manufacturing Index
+low,,GBP,Tue,5:33am,2017-01-31,10-y Bond Auction
+high,,CAD,Tue,5:35pm,2017-01-31,BOC Gov Poloz Speaks
+low,,GBP,Tue,7:01pm,2017-01-31,BRC Shop Price Index y/y
+low,52.8,JPY,Tue,7:30pm,2017-01-31,Final Manufacturing PMI
+high,51.2,CNY,Tue,8:00pm,2017-01-31,Manufacturing PMI
+medium,,CNY,Tue,8:00pm,2017-01-31,Non-Manufacturing PMI
+high,0.3%,CAD,Tue,8:30am,2017-01-31,GDP m/m
+medium,2.9%,CAD,Tue,8:30am,2017-01-31,RMPI m/m
+low,0.5%,CAD,Tue,8:30am,2017-01-31,IPPI m/m
+medium,0.6%,USD,Tue,8:30am,2017-01-31,Employment Cost Index q/q
+low,5.0%,USD,Tue,9:00am,2017-01-31,S&P/CS Composite-20 HPI y/y
+medium,55.1,USD,Tue,9:45am,2017-01-31,Chicago PMI
+holiday,,CNY,Tue,All Day,2017-01-31,Bank Holiday
