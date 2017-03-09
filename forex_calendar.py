@@ -9,9 +9,9 @@ class FXCalendarSpider(scrapy.Spider):
     base_url = 'https://www.forexfactory.com/calendar.php?month=%s.%d'
 
     # Every month of the following years
-    list_years = [ 2017 ]
-    list_months = [ m.lower() for m in calendar.month_abbr ]
-    start_urls = [ base_url % (month, year) for month in list_months for year in list_years ]
+    year_list = [ 2017 ]
+    month_list = [ m.lower() for m in calendar.month_abbr ]
+    start_urls = [ base_url % (month, year) for month in month_list for year in year_list ]
 
 
     def start_requests(self):
