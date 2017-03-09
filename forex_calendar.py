@@ -1,51 +1,66 @@
 import scrapy
+import calendar
 
 class FXCalendarSpider(scrapy.Spider):
+    month_dict = {v.lower(): k for k,v in enumerate(calendar.month_abbr)}
     name = "events"
-    # URLs to get the current and next month data
-    base_url = 'http://www.forexfactory.com/calendar.php?month=%s'
-    start_urls = [
-            base_url % 'this',
-            base_url % 'next',
-    ]
+    allowed_domains = ['forexfactory.com']
 
-    def parse(self, response):
-        date = None
+    base_url = 'https://www.forexfactory.com/calendar.php?month=%s.%d'
+
+    # Every month of the following years
+    list_years = [ 2017 ]
+    list_months = [ m.lower() for m in calendar.month_abbr ]
+    start_urls = [ base_url % (month, year) for month in list_months for year in list_years ]
+
+
+    def start_requests(self):
+        for url in self.start_urls:
+            yield scrapy.Request(url = url, callback = self.parse_first_call)
+
+
+    def parse_first_call(self, response):
+        date_dict = {}
         time = None
 
         # Filter table rows from the specified classes
-        css_str = 'tr.calendar__row.calendar_row'
-        for event in response.css(css_str):
+        #XPath: response.xpath('//tr[contains(@class,"calendar_row")]')
+        #CSS: response.css('tr.calendar_row')
+        for event in response.xpath('//tr[not(contains(@class, "noevent"))]').css('tr.calendar_row'):
             # Some of these rows have more classes that refers to wheter it's a new day or different colors
-            # (see page code for more information)
 
-            if not event.css('td span.date::text').extract_first() is None:
+            #CSS:: event.css('tr::attr(class)').extract_first():
+            if 'newday' in event.xpath('@class').extract_first():
                 # It's a tr.newday, so we can get the date and use it for others rows within this day
-                date = event.css('td span.date::text').extract_first() + ' ' + \
-                    event.css('td span.date span::text').extract_first()
+                date_dict['weekday'] = event.css('td span.date::text').extract_first()
+                date_dict['month'], date_dict['day'] = event.css('td span.date span::text').extract_first().lower().split()
 
                 # It's a tr.newday, so it must not get the time from the last row
                 time = None
 
-            if not event.css('td.calendar__cell.calendar__time.time::text').extract_first() is None:
-                # It's the first row in this time, so we can save it for others rows within this time
-                time = event.css('td.calendar__cell.calendar__time.time::text').extract_first()
+            #XPath: event.xpath('.//td[contains(@class,"time")]/text()').extract_first()
+            if event.css('td.calendar__time.time::text'):
+                # It's the first row at this time, so we can save it for other rows within this time
+                time = event.css('td.calendar__time.time::text').extract_first()
+
+            date_dict['year'] = response.url[-4:]
 
             # Create data entries
-            # (see page code for more information)
             yield {
-                    'date': date,
+                    'weekday': date_dict['weekday'],
+                    'date': '%d-%02d-%02d' % (
+                        int( date_dict.get('year') ),
+                        self.month_dict[ date_dict.get('month') ],
+                        int( date_dict.get('day') )
+                        ),
                     'time': time,
-                    'currency': event.css('td.calendar__cell.calendar__currency.currency::text').extract_first(),
-                    'impact': event.css('td.calendar__cell.calendar__impact.impact' + \
-                        ' div.calendar__impact-icon' + \
-                        ' span::attr("class")').extract_first(),
-                    'event': event.css('td.calendar__cell.calendar__event.event' + \
-                            ' div span.calendar__event-title::text').extract_first(),
-
+                    'currency': event.css('td.currency::text').extract_first(),
+                    'impact': event.css('td.impact div span').xpath('@class').extract_first(),
+                    'event': event.css('td.event div span::text').extract_first(),
+                    'previous': event.css('td.previous::text').extract_first(),
+                    'actual': event.css('td.actual::text').extract_first(),
+                    'forecast': event.css('td.forecast::text').extract_first(),
+                    'eventid': event.xpath('@data-eventid').extract_first()
                     #'detail':,
-                    #'actual':,
-                    #'forecast':,
-                    #'previous':,
                     #'graph':,
             }
