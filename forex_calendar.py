@@ -4,27 +4,26 @@ from scrapy.selector import Selector
 
 class FXCalendarSpider(scrapy.Spider):
     month_dict = {v.lower(): k for k,v in enumerate(calendar.month_abbr)}
-    name = "events"
-    custom_settings = {
-            'LOG_FILE': 'scrapy.log',
-    }
+    name = "forex_events"
     allowed_domains = ['forexfactory.com']
 
-    base_url = 'https://www.forexfactory.com/calendar.php?month=%s.%d'
-
-    # Every month of the following years
-    year_list = [ 2017 ]
-    month_list = [ m.lower() for m in calendar.month_abbr ]
-    start_urls = [ base_url % (month, year) for month in month_list for year in year_list ]
-
     def start_requests(self):
-        for url in self.start_urls:
-            yield scrapy.Request(
-                    url = url,
-                    meta = {
-                        'dont_redirect': True,
-                    },
-                    callback = self.parse_page1
+        base_url = 'https://www.forexfactory.com/calendar.php?month=%s.%d'
+
+        # Every month of the following years
+        year_list = range(2010, 2018)
+        month_list = [ m.lower() for m in calendar.month_abbr ]
+        #start_urls = [ base_url % (month, year) for month in month_list for year in year_list ]
+
+        for year in year_list:
+            for month in month_list:
+                url = base_url % (month, year)
+                yield scrapy.Request(
+                        url = url,
+                        callback = self.parse_page1,
+                        meta = {
+                            'dont_redirect': True,
+                        },
                 )
 
     def parse_page1(self, response):
@@ -73,11 +72,12 @@ class FXCalendarSpider(scrapy.Spider):
 
             request = scrapy.Request(
                     url = 'https://www.forexfactory.com/flex.php?do=ajax&contentType=Content&flex=calendar_mainCal&details=%d' % int(item['eventid']),
+                    callback = self.parse_page2,
                     meta = {
                         'dont_redirect': True,
+                        'item': item,
                     },
-                    callback = self.parse_page2)
-            request.meta['item'] = item
+            )
 
             yield request
 

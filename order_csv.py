@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load and sort the values
-df = pd.read_csv('fx_events.csv')
+df = pd.read_csv('all_fx_events.csv')
 df.sort_values( by = ['date', 'time', 'currency'], inplace = True )
 
 # Get column names
