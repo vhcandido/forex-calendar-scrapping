@@ -4,7 +4,7 @@ from scrapy.selector import Selector
 
 class FXCalendarSpider(scrapy.Spider):
     month_dict = {v.lower(): k for k,v in enumerate(calendar.month_abbr)}
-    name = "forex_events"
+    name = "forex_calendar"
     allowed_domains = ['forexfactory.com']
 
     def start_requests(self):
