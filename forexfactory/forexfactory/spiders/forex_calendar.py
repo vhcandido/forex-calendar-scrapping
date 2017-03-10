@@ -11,7 +11,7 @@ class FXCalendarSpider(scrapy.Spider):
         base_url = 'https://www.forexfactory.com/calendar.php?month=%s.%d'
 
         # Every month of the following years
-        year_list = range(2010, 2018)
+        year_list = range(2000, 2018)
         month_list = [ m.lower() for m in calendar.month_abbr ]
         #start_urls = [ base_url % (month, year) for month in month_list for year in year_list ]
 
@@ -108,5 +108,10 @@ class FXCalendarSpider(scrapy.Spider):
         item['next_release_date'] = a.xpath('text()').extract_first()
         item['next_release_url'] = a.xpath('@href').extract_first()
         item['next_release_eventid'] = item['next_release_url'].split('=')[-1] if item['next_release_url'] else None
+
+        # Stripping (trimming) string
+        for k,v in item.iteritems():
+            if isinstance(v, basestring):
+                item[k] = v.strip()
 
         yield item
